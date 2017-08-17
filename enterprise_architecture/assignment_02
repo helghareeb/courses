@@ -1,0 +1,22 @@
+Deadline: Saturday - 19 August 2017 - 1 PM GMT + 2
+
+Requirements:
+
+1 - Create Github account, and fill the form (URL) with it
+
+2 - Create Repository for the (Enterprise Architecture) report.
+Report must be:
+- Written using LaTex, with LaTex source provided in Github
+- Enterprise architecture MUST include four main components, with real case studies
+- Report will be discussed in Oral Exam
+
+3 - Handwritten assignment: MVC Design Pattern Overview
+Your report must answer the following questions:
+- What is MVC Design Pattern
+- Why it is important
+- Is it scalable?
+- Is it suitable for all project types?
+- What are the major frameworks that implement MVC
+- Where is MVC used
+
+4 - Using your IDE of choice (Atom recommended) and Operating System of your choice (Linux highly recommended), build an MVC app using flask framework that displays (Hello, World!) page, and upload it to your github repository.
