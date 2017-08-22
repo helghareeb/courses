@@ -1,0 +1,15 @@
+Deadline - Tuesday 22 August 2017
+
+Question 1:
+===========
+To illustrate how applications that use a mixture of services and components may be organized, consider the following scenario: An in-car IS provides drivers with information on weather, road traffic conditions, local information, and so forth [246]. This is linked to the car radio so that information is delivered as a signal on a specific radio channel. The car is equipped with GPS receiver to discover its position and, based on that position, the system accesses a range of information services. Information may then be delivered in the driver’s specified language.
+
+Question 2:
+===========
+From Chapter 3 review questions, answer the following
+3.10 Review Questions
+3.10.1
+3.10.2
+3.10.3
+3.10.4
+
