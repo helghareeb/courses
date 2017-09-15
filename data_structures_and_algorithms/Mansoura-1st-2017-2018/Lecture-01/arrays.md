@@ -40,12 +40,88 @@ printf("%s\n", string3);
 
 ## Passing Arrays to Functions
 - To pass an array argument to a function, specify the array's name without any brackets.
-- ** Recall ** all arguments in C are passed by value
+- **Recall** all arguments in C are passed by value
 - C automatically passes arrays to functions by reference
 - Called functions can modify the element values in the callers' original arrays
 - Arrays names evaluates to the address of the array's first element
-- Although entire arrays are passed by reference, ** individual array elements are passed by value **
+
+## Notes
+- Although entire arrays are passed by reference, **individual array elements are passed by value**
+- Simple single pieces of data are called **scalars**
+- It is possible to pass array by value, by placing it in a Struct
+- Using the **const** qualifier with array parameters prevents modification of arrays
+```C
+void tryToModifyArray(const int b[]){
+    b[0] = 2; //error
+}
+```
 
 ## Examples
-- arrays_03.c
-- Demonstrate that the array name is the address of the first element
+- **arrays_03.c** Demonstrate that the array name is the address of the first element
+- **arrays_04.c** Demonstrate the difference between passing an array and passing an array element
+
+## Sorting Arrays
+- **Sorting Data** placing the data into ascending or descending order
+- Here, we discuss simple sorting scheme
+- Advanced sorting scheme is presented in Chapter 12 and Appendix D
+- Often, the simplest algorithms perform poorly. Their virtue is that they are easy to write, test, and debug.
+- More complex algorithms are often needed to realize maximum performance.
+
+## [Bubble Sort](https://www.tutorialspoint.com/data_structures_algorithms/bubble_sort_algorithm.htm)
+
+```Python
+# Algorithm
+begin BubbleSort(list)
+
+   for all elements of list
+      if list[i] > list[i+1]
+         swap(list[i], list[i+1])
+      end if
+   end for
+   
+   return list
+   
+end BubbleSort
+```
+```C
+// C Implementation
+void bubbleSort(int array[], size_t size){
+    for(size_t i=1; i<SIZE; ++i){
+        for(size_t j=0; j<SIZE; ++j){
+            if (array[i] < array[j]){
+                int tmp;
+                tmp = array[i];
+                array[i] = array[j];
+                array[j] = tmp;
+            } 
+        }
+    }
+}
+```
+
+## Examples
+- **arrays_05.c** - non-modular implementation
+- **arrays_06.c** - modular implementation
+
+## Searching Arrays
+- Determine whether an array contains a value that matches a certain **key value**
+- The process of finding a particular element of an array
+- Two searching techniques:
+  - Linear Search
+  - Binary Search
+
+## Linear Search
+- Compare each element of the array with the **search key**
+- Because the array is not in any particular order, it is just as likely that the value will be found in the first element as in the last
+- On average, therefore, the program will have to compare the search key with **half** the elements of the array
+- Can you identify the **Best case** ?
+- Can you identify the **Worst case** ?
+
+## Notes
+- Linear search works well for small or unsorted arrays
+- Linear search is not efficient for large arrays
+- Linear search is not efficient for sorted arrays
+- Solution?
+
+## Binary Search
+- Eliminates from consideration one-half of the elements 
