@@ -78,7 +78,7 @@ Fast, automated feedback on the production readiness of your application everyti
 ![Basic Deployment Pipeline](https://github.com/helghareeb/courses/blob/master/enterprise_architecture/Mansoura-1st-2017-2018/Lecture-01/IMG_0339.PNG)
 
 ## Production-Like
-![Production-Like](https://github.com/helghareeb/courses/blob/master/enterprise_architecture/Mansoura-1st-2017-2018/Lecture-01/IMG_0341)
+![Production-Like](https://github.com/helghareeb/courses/blob/master/enterprise_architecture/Mansoura-1st-2017-2018/Lecture-01/IMG_0341.PNG)
 
 ## Keep everything you need in version control
 ### Everything, such as
@@ -93,6 +93,6 @@ Fast, automated feedback on the production readiness of your application everyti
 - tool chains
 
 ## Technical Knowledge
-![Technical Knowledge](https://github.com/helghareeb/courses/blob/master/enterprise_architecture/Mansoura-1st-2017-2018/Lecture-01/IMG_0344)
+![Technical Knowledge](https://github.com/helghareeb/courses/blob/master/enterprise_architecture/Mansoura-1st-2017-2018/Lecture-01/IMG_0344.PNG)
 
-![Quite Useful](https://github.com/helghareeb/courses/blob/master/enterprise_architecture/Mansoura-1st-2017-2018/Lecture-01/IMG_0348)
+![Quite Useful](https://github.com/helghareeb/courses/blob/master/enterprise_architecture/Mansoura-1st-2017-2018/Lecture-01/IMG_0348.PNG)
