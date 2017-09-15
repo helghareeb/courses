@@ -1,3 +1,5 @@
+# بسم الله الرحمن الرحيم
+
 # Data Structures and Algorithms
 # Dr.Haitham A. El-Ghareeb
 ## [Contacts](https://about.me/helghareeb)

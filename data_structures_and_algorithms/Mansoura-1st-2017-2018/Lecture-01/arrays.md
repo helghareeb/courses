@@ -1,3 +1,5 @@
+# بسم الله الرحمن الرحيم
+
 # Arrays Using C
 
 ## Introduction

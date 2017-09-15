@@ -1,3 +1,5 @@
+# بسم الله الرحمن الرحيم
+
 # Lecture Objectives
 ## Using C Programming Language
 "From Chapter 6 - Arrays"
