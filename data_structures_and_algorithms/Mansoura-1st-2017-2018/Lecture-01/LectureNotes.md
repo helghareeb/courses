@@ -7,6 +7,13 @@
 - Sorting Arrays (6.8)
 - Searching Arrays (6.10)
 
+## Assignment
+- Answer the following Questions and Deliver them in your LAB
+  - What is meant by "Data Structures"?
+  - Why we study "Data Structures" ?
+  - What are the different classifications of "Data Structures" ?
+- Implement Binary Search using Recursion
+
 ### C How to Program with an introduction to C++, Eighth Edition, by Paul Deitel and Harvey Dietel, Pearson, 2016
 
 https://www.amazon.com/How-Program-8th-Paul-Deitel/dp/0133976890

@@ -137,3 +137,21 @@ void bubbleSort(int array[], size_t size){
     - or until subarray consists of one element that is not equal to the search key
 
 ## Iterative Binary Search
+```C
+size_t binarySearch(const int b[], int searchKey, size_t low, size_t high){
+    while (low <= high){
+        size_t middle = (low + high) / 2;
+        printRow(b, low, middle, high);
+        if(searchKey == b[middle]){
+            return middle;
+        }
+        else if (searchKey < b[middle]){
+            high = middle - 1;
+        }
+        else {
+            low = middle + 1;
+        }
+    }
+    return -1;
+}
+```
