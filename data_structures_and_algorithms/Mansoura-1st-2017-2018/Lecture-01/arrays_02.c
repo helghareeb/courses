@@ -1,3 +1,5 @@
+//بسم الله الرحمن الرحيم
+
 // Character Arrays Example
 #include <stdio.h>
 

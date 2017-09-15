@@ -1,4 +1,5 @@
 // Linear Search
+//بسم الله الرحمن الرحيم
 
 #include <stdio.h>
 

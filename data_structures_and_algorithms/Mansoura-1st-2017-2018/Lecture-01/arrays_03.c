@@ -1,3 +1,5 @@
+//بسم الله الرحمن الرحيم
+
 // Array name is the address of the first element
 
 #include <stdio.h>

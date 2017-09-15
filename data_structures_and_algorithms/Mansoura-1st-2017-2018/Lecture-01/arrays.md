@@ -124,4 +124,16 @@ void bubbleSort(int array[], size_t size){
 - Solution?
 
 ## Binary Search
-- Eliminates from consideration one-half of the elements 
+- Eliminates from consideration one-half of the elements in a sorted array after each comparison
+- Algorithm:
+  - locates the **middle** element of the array and compares it to the search key
+  - If they **are equal**: Search key is found and the array index of that element is returned
+  - If they **are not equal**: 
+    - Problem is reduced to searching **one half** of the array
+    - If the search **key is less than the middle element** of the array, the algorithm searches the **first half**
+    - If the search **key is greater than the middle element** of the array, the algorithm searches the **second half**
+  - Algorithm repeats the process
+    - Search continues until the search key is equal to the middle element
+    - or until subarray consists of one element that is not equal to the search key
+
+## Iterative Binary Search

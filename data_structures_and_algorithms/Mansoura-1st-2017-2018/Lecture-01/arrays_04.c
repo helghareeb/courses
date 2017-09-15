@@ -1,3 +1,5 @@
+//بسم الله الرحمن الرحيم
+
 #include <stdio.h>
 
 #define SIZE 5
