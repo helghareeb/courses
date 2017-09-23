@@ -39,6 +39,16 @@
 - **Software architecture** can be defined as “the sum of the nontrivial modules, processes, and data of the system, their structure and exact relationships to each other, how they can be and are expected to be extended and modified, and on which technologies they depend, from which one can deduce the exact capabilities and flexibility of the system, and from which one can form a plan for the implementation or modification of the system”. 
 - **Application Architecture** defines the form and function of the applications that will be developed to deliver the required functionality of the system. 
 
+# Business Architecture
+
+# IT Architecture
+## Storage
+
+# Information Architecture
+## Non-Structured Data
+## Logical vs. Physical Data
+### NoSQL
+
 # Software Architecture Fundamentals - Understanding the Basics
 
 ## Architecture Soft Skills

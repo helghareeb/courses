@@ -3,7 +3,7 @@
 # Arrays Using C
 
 ## Introduction
-
+محمد حسين ابراهيم -5
 - Data Structures consisting of related data items of the same type
 - **Static Entity** it remains the same size throughout program execution
 - Group of contiguous memory locations that all have the same type
@@ -118,6 +118,9 @@ void bubbleSort(int array[], size_t size){
 - On average, therefore, the program will have to compare the search key with **half** the elements of the array
 - Can you identify the **Best case** ?
 - Can you identify the **Worst case** ?
+
+## Examples
+- **arrays_07.c**
 
 ## Notes
 - Linear search works well for small or unsorted arrays

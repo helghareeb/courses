@@ -2,7 +2,7 @@
 
 ## Prepare a presentation base on the report you are building for the course. Your presentation must include
 
-### Enterprise Architecture Subclasses:
+### Enterprise Architecture Dimensions:
 
 ### Business Architecture
 - Mission
