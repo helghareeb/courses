@@ -16,7 +16,7 @@
 - Pointer **indirectly references** a value
 - Referencing value through pointer is called **indierction**
 
-![Image of Pointer vs. Variable](https://github.com/helghareeb/data_structures_and_algorithms/Lecture-02/pointers-01.png)
+![Image of Pointer vs. Variable](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Mansoura-1st-2017-2018/Lecture-02/pointers-01.png)
 
 ## Declaring Pointers
 - Pointers must be defined before they can be used
@@ -49,7 +49,7 @@ int y = 5;
 int *yPtr;
 yPtr = &y;
 ```
-![Image of Pointer vs. Variable](https://github.com/helghareeb/data_structures_and_algorithms/Lecture-02/pointers-02.png)
+![Image of Pointer vs. Variable](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Mansoura-1st-2017-2018/Lecture-02/pointers-01.png)
 
 ### Indirection (*) Operator
 - Unary operator
