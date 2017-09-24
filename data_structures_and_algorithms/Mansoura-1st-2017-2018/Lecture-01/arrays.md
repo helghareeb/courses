@@ -3,7 +3,6 @@
 # Arrays Using C
 
 ## Introduction
-محمد حسين ابراهيم -5
 - Data Structures consisting of related data items of the same type
 - **Static Entity** it remains the same size throughout program execution
 - Group of contiguous memory locations that all have the same type
