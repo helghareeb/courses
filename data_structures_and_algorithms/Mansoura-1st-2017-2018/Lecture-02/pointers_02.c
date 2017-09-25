@@ -7,4 +7,5 @@ int cubeByValue(int x){
 int main(void){
     int x = 5;
     printf("Cube of x is: %d\n", cubeByValue(x));
+    printf("%d\n", x);
 }
