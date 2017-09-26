@@ -2,6 +2,8 @@
 
 ## C Programming Language
 
+## Part One
+
 ## The C Language
 - Created by Dennis Ritchie at Bell Labs in 1972
 - Based on Ken Thomson's B language
@@ -230,4 +232,115 @@ strlen(str); // compute length of string
 ### Variable Names
 - Choose meaningful names
 - camelCase notation
-- 
+
+### Variable Declaration
+- Variables must be declared before use
+- Can be declared all in one place
+- Can be declared right before use
+- Can be declared in external file
+
+## Implementing Simple Assignment Statements
+
+### Simple Assignment Statements
+- Assignment statements change values of variables
+
+```C
+size = 12;
+time = time + 1;
+time += 1;
+```
+## Arithmetic Operators
+![Arithmetic Operators](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/DefinedOperators.png)
+
+## Understanding the Use of Relational Operators
+
+![Relational Operators](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/RelationalOperators.png)
+
+## Decision making using logical operators
+- Recall the logical operators ``` && = and, ||=or```
+- Logical operators can be used to make decisions
+- Leverage the fact that ```1=true``` and ```0=false```
+- Build a user query system to assess outcome given a set of conditions
+
+## Performing Bit-Level Calculations with Bitwise Operations
+
+![Bit-Level Operators](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/Bitwise.png)
+
+![Truth Table of Bit-Level "AND"](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/TruthAND.png)
+
+![Truth Table of Bit-Level "OR"](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/TruthOR.png)
+
+- 06.c
+
+## Using Assignment Operators in Complex Statements
+
+## Implementing Mathematical Expressions
+
+## Understanding the relationship between statements and expressions
+
+### Expressions vs Statements
+- An expression represents a single data item
+- A statement carries out some definite action
+
+### Expression Statement
+```C
+a = 6;
+c = a + b;
+++j;
+```
+
+### Compound Statement
+```C
+{
+    pi = 3.141593;
+    circumference = 2. * pi * radius;
+    area = pi * radius * radius;
+}
+```
+
+## Functional Programming
+
+### Functions
+- Blocks of code that perform specific tasks
+  - Calculate a mathematical expression
+  - Evaluate the outcome of a series of statements
+  - Print results in a specific format
+
+### Functional Programming Advantages
+- Enables reusability of portions of code
+- Enables breaking complex solutions into simpler steps
+- Simplifies the debugging process
+- Eases the processes of updating and improving code
+
+## Passing Variables to Functions
+### Parameters vs. Arguments
+- Functions are mini programs, which may or may not use external data
+- **Parameters** are variables defined to accept external data
+- **Arguments** are the data passed onto the funtion
+
+### Functions without Parameters
+```C
+void addNumbers(void){
+    float x = 2.4;
+    float y = 3.1;
+    result = x + y;
+    printf("Sum = %f", result);
+}
+addNumbers(); // The function call without arguments
+// Function contains all needed data
+```
+
+### Functions with Parameters
+
+A function that uses external data
+```C
+void addNumbers(float x, float y){
+    result = x + y;
+    printf("Sum = %f", result);
+}
+// The function is called with two arguments
+addNumbers(2.6, 4.2);
+// The two parameters are mapped into arguments
+```
+
+
