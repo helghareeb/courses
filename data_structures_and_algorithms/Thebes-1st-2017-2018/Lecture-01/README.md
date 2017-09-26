@@ -141,4 +141,27 @@ comment
 ## Declaring and Using Integer Types
 
 ### Integer Types
-![Integer Types and Sizes](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/IntegerTypes.png)
+![Integer Types and Sizes - Part 01](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/IntegerTypes-01.png)
+
+![Integer Types and Sizes - Part 02](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/IntegerTypes-02.png)
+
+- Note that: output of the following program differs from machine to another
+- 03.c
+
+## Declaring and Using Floating Point Types
+
+![Floating-Point Types and Sizes - Part 01](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/FloatingTypes-01.png)
+
+- 04.c
+
+## When to use the void Type?
+
+### The void Type
+- Specifies that no value (no data) is needed
+- It is a data type
+- It doesn't apply to variables, except (only case)
+```void *ptr;```
+- It applies to functions
+- Adds clarity to code and debugging
+
+
