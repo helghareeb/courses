@@ -164,4 +164,26 @@ comment
 - It applies to functions
 - Adds clarity to code and debugging
 
+## Declaring and Using Boolean Types
 
+### The Boolean Type
+- Named after mathematician George Boole
+- Denotes a value of TRUE or FALSE
+- Boolean types are not defined in standard C
+- 1 is equivalent to TRUE
+- 0 is equivalent to FALSE
+```C
+#include <stdbool.h> // C99 Standard, defines a bool type as True and False
+Bool var = True;
+Bool var2 = False;
+```
+## What are strings?
+
+### Strings
+- Series of characters
+- There is not string type in C
+- Strings are stored in arrays of type char
+```char address[30];```
+
+### Prelude to Arrays
+- Arrays: sequential collections of elements of similar type
