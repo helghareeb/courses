@@ -141,4 +141,4 @@ comment
 ## Declaring and Using Integer Types
 
 ### Integer Types
-![Integer Types and Sizes](http://github.com/helghareeb/courses/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/IntegerTypes.png)
+![Integer Types and Sizes](https://github.com/helghareeb/courses/blob/master/data_structures_and_algorithms/Thebes-1st-2017-2018/Lecture-01/img/IntegerTypes.png)
