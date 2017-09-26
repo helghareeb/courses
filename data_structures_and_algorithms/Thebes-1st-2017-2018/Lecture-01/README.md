@@ -187,3 +187,47 @@ Bool var2 = False;
 
 ### Prelude to Arrays
 - Arrays: sequential collections of elements of similar type
+
+## Implementing Techniques for Screen-Based I/O
+
+### Input/Output
+- **Input** consists of bytes of data that are entered via screen, keyboard, or network, and stored in memory
+- **Output** consists of bytes of data from memory to a device like screen, printer, disk
+- ```<stdio.h>``` library includes standard functionality that enables screen-based I/O
+
+### Main I/O Functions
+- **printf** - provides powerful formatting features for displaying types of data on the screen
+- **scanf** - is the main vehicle for reading data from a computer screen
+- Both **scanf** and **printf** offer broad conversion capabilities across data types
+
+- 05.c
+- Notice the spaces in input!
+- ```getchar()``` vs. ```putchar()```
+
+## Using Build-in String Manipulation
+
+### Essentials of <string.h>
+- One of the standard C libraries, which includes many useful string manipulation functions
+```C
+strcmp(str1, str2); // compare two strings
+```
+```C
+strcpy(dest, src); // copy src onto dest
+```
+- String is not just a simple variable!
+- Here, we take all the positions starting at position src and pasting them into positions starting at dest
+
+```C
+memcpy(dest, src, n); // copy n chars from src to dst
+```
+
+```C
+strlen(str); // compute length of string
+```
+
+## Chosing Appropriate Variable Names
+
+### Variable Names
+- Choose meaningful names
+- camelCase notation
+- 
