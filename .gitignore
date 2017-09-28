@@ -3,3 +3,4 @@ TODO
 .vscode
 ISM-Overview.pptx
 *.o
+.vscode/settings.json

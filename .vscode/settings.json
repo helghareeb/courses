@@ -2,7 +2,8 @@
     "files.associations": {
         "stdio.h": "c",
         "initializer_list": "c",
-        "string_view": "c"
+        "string_view": "c",
+        "mylibrary.h": "c"
     },
     
     "C_Cpp.intelliSenseEngine": "Default"
