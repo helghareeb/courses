@@ -7,7 +7,7 @@
 ### Haitham A. El-Ghareeb, Ph.D.
 
 - 2000 - 2002 - 2004
-![.net Framework](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/001.png)
+![.net Framework](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/001.png =100x20)
 
 - 2004
 ![Graduation](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/002.jpg)
