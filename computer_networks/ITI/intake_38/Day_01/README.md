@@ -41,3 +41,23 @@
 - e-Learning
 ![e-Learning](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/011.png)
 
+- SOA
+![SOA](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/012.png)
+
+- Webservices
+![Webservices](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/013.png)
+
+- Integration
+![Integration](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/014.png)
+
+- Microsoft BizTalk Server
+![.net Framework](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/015.png)
+
+- XML
+![XML](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/016.png)
+
+- Optimization
+![Optimization](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/017.png)
+
+- Open Source
+![Open Source](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/018.png)
