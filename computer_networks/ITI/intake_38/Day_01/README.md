@@ -10,54 +10,54 @@
 <img alt=".net Framework" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/001.png" width=600 height=400 />
 
 - 2004
-![Graduation](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/002.jpg)
+<img alt="Graduation" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/002.jpg" width=600 height=400 />
 
 - 2004 - 2005
-![MCSD](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/003.png)
+<img alt="MCSD" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/003.png" width=600 height=400 />
 
 - 2005 - SQL Server 2000
-![MS SQL Server](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/004.jpg)
+<img alt="MS SQL Server" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/004.jpg" width=600 height=400 />
 
 - 2008 - Masters
-![Mars](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/005.jpg)
+<img alt="Mars" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/005.jpg" width=600 height=400 />
 
 - 2008
-![Cisco Networking Academy](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/006.jpg)
+<img alt="Cisco Networking Academy" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/006.jpg" width=600 height=400 />
 
 - Fundamentals
-![Network Fundamentals](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/007.jpg)
+<img alt="Network Fundamentals" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/007.jpg" width=600 height=400 />
 
 - Routing
-![Routing](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/008.jpg)
+<img alt="Routing" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/008.jpg" width=600 height=400 />
 
 - Switching
-![Switching](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/009.jpg)
+<img alt="Switching" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/009.jpg" width=600 height=400 />
 
 - WAN
-![WAN](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/010.png)
+<img alt="WAN" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/010.png" width=600 height=400 />
 
 - 2011 - PhD
 
 - e-Learning
-![e-Learning](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/011.jpg)
+<img alt="e-Learning" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/011.jpg" width=600 height=400 />
 
 - SOA
-![SOA](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/012.jpg)
+<img alt="SOA" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/012.jpg" width=600 height=400 />
 
 - Webservices
-![Webservices](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/013.jpg)
+<img alt="Webservices" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/013.jpg" width=600 height=400 />
 
 - Integration
-![Integration](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/014.jpg)
+<img alt="Integration" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/014.jpg" width=600 height=400 />
 
 - Microsoft BizTalk Server
-![.net Framework](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/015.jpg)
+<img alt="Microsoft BizTalk Server" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/015.jpg" width=600 height=400 />
 
 - XML
-![XML](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/016.jpg)
+<img alt="XML" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/016.jpg" width=600 height=400 />
 
 - Optimization
-![Optimization](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/017.jpg)
+<img alt="Optimization" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/017.jpg" width=600 height=400 />
 
 - Open Source
-![Open Source](https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/018.jpg)
+<img alt="Open Source" src="https://github.com/helghareeb/courses/blob/master/computer_networks/ITI/intake_38/Day_01/img/018.jpg" width=600 height=400 />
