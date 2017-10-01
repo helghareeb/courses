@@ -132,7 +132,7 @@ struct node* delete(int key) {
       }
    }
 
-   //found a match, update the link
+   //found a match as afirst link, update the link
    if(current == head) {
       //change first to point to next link
       head = head->next;
@@ -211,6 +211,7 @@ int main(void) {
 	
    printf("\nList after deleting all items: ");
    printList();
+   
    insertFirst(1,10);
    insertFirst(2,20);
    insertFirst(3,30);
