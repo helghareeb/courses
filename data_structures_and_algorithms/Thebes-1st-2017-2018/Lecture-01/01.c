@@ -7,7 +7,7 @@
 
 int main(void){
     int aNumber;
-    printf("Please enter a number Greater than 5: ");
+    printf("Please enter a number: ");
     scanf("%d", &aNumber);
     printf("You entered %d\n", aNumber);
     return 0;
