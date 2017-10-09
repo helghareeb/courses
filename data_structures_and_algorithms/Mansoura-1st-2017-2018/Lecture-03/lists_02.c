@@ -116,7 +116,10 @@ void insertLast(int key, int data) {
 	
    if(isEmpty()) {
       //make it the last link
-      last = link;
+      head = link;
+      //last = link;
+      // head points nothing
+
    } else {
       //make link a new last link
       last->next = link;     
