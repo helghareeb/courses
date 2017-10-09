@@ -485,11 +485,196 @@ ssh username@remote_ip "ls -l .ssh"
 
 - X forwarding via ssh
 ```Shell
-ssh -X username@remote_ip -p 55555
+ssh -X username@remote_ip
+```
+- Then, you can log in remotely with graphics
+```Shell
+libreoffice
+evince file.pdf
+eog file.png
+virtualbox
 ```
 
 - To stop ssh
 ```Shell
 service sshd stop
+```
+
+### Web Servers
+
+#### Serve Flask Applications with Gunicorn and Nginx on Ubuntu 16.04
+
+- Objectives
+  - Set up a simple Python application using Flask microframework
+
+- Prerequisites 
+  - Python 3
+
+- Webserver
+  - nginx
+
+```Shell
+sudo apt update
+sudo apt install python3-pip python3-dev nginx
+```
+
+- Create virtual environment
+```Shell
+sudo pip3 install virtualenv
+mkdir ~/myproject
+cd ~/myproject
+virtualenv myprojectenv
+source myproject/bin/activate
+```
+
+- Set Up a Flask Application
+  - Install Flask and Gunicorn
+```Shell
+pip install gunicorn flask
+```
+  - Create a sample app
+```Shell
+nano ~/myproject/myproject.py
+```
+
+```Python
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+  return "<h1 style='color:blue'>Hello There!</h1>"
+
+if __name__ == "__main__":
+  app.run(host='0.0.0.0')
+```
+
+  - Open up port 5000
+```Shell
+sudo ufw allow 5000
+python myproject.py
+firefox http://localhost_or_IP:5000
+```
+
+- Create WSGI Entry Point
+```Shell
+nano ~/myproject/wsgi.py
+```
+
+```Python
+# Contents of wsgi.py
+from myproject import app
+if __name__ == "__main__":
+  app.run()
+```
+
+- Serving the project from Guincorn
+```Shell
+cd ~/myproject
+gunicorn --bind 0.0.0.0:5000 wsgi:app
+firefox http://localhost_or_IP:5000
+deactivate
+```
+
+### Databases
+#### MySQL
+
+- Installation
+```Shell
+sudo apt install mysql-server
+```
+
+- Note: my pwd is root - bad behavior :)
+Weak password and posted on Github :D
+
+- Check if MySQL is running
+```Shell
+sudo netstat -tap | grep mysql
+```
+
+- To start the MySQL Server
+```Shell
+sudo systemctl restart mysql.service
+```
+
+#### Python with MySQL
+```Shell
+sudo apt install python-mysqldb
+pip install MySQL-python
+pip install mysqlclient
+mysql -u root -p
+```
+
+- Now, we are inside MySQL Shell
+```Shell
+SHOW DATABASES;
+CREATE DATABASE testdb;
+CREATE USER 'testuser@localhost' IDENTIFIED BY 'test623';
+USE testdb;
+GRANT ALL ON testdb.* TO 'testuser@localhost';
+quit;
+```
+
+```Shell
+nano mysql_example.py
+```
+
+```Python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+import _mysql
+import sys
+
+try:
+    con = _mysql.connect('localhost', 'testuser', 'test623', 'testdb')
+        
+    con.query("SELECT VERSION()")
+    result = con.use_result()
+    
+    print "MySQL version: %s" % \
+        result.fetch_row()[0]
+    
+except _mysql.Error, e:
+  
+    print "Error %d: %s" % (e.args[0], e.args[1])
+    sys.exit(1)
+
+finally:
+    
+    if con:
+        con.close()
+```
+
+```Shell
+nano mysql_python_example.py
+```
+
+```Python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+import MySQLdb as mdb
+import sys
+
+try:
+    con = mdb.connect('localhost', 'testuser', 'test623', 'testdb');
+
+    cur = con.cursor()
+    cur.execute("SELECT VERSION()")
+
+    ver = cur.fetchone()
+    
+    print "Database version : %s " % ver
+    
+except mdb.Error, e:
+  
+    print "Error %d: %s" % (e.args[0],e.args[1])
+    sys.exit(1)
+    
+finally:    
+        
+    if con:    
+        con.close()
 ```
 
