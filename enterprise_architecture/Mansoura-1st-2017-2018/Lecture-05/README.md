@@ -2,14 +2,6 @@
 
 # Business Architecture
 
-# IT Architecture
-## Storage
-
-# Information Architecture
-## Non-Structured Data
-## Logical vs. Physical Data
-### NoSQL
-
 # Software Architecture Fundamentals - Understanding the Basics
 
 ## Architecture Soft Skills
