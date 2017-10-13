@@ -43,10 +43,14 @@ void bubbleSort(int arr[], int size)
 
 int binarySearch(int arr[], int key, int start, int end)
 {
-    for (int i = start; i <= end; i++)
+    //for (int i = start; i <= end; i++)
+    while(start <= end)
     {
 
         int middle = (start + end) / 2;
+        // printf("Start: %d\n", start);
+        // printf("Middle: %d\n", middle);
+        // printf("End: %d\n", end);
 
         if (arr[middle] == key)
         {
@@ -54,12 +58,12 @@ int binarySearch(int arr[], int key, int start, int end)
         }
         else if (key < arr[middle])
         {
-            end = middle;
+            end = middle - 1;
         }
         else
         {
             // if(key > arr[middle]){
-            start = middle;
+            start = middle + 1;
         }
     }
     return -1;
