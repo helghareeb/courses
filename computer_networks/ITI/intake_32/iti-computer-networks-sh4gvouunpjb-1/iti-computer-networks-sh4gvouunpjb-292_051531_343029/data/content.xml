@@ -1,0 +1,3968 @@
+<zuiprezi>
+  <version>3</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-109555.72416915893" y="-20754.687426757813" width="219111.43717585504" height="41509.41281738281"/>
+    </settings>
+    <object id="9" type="button" x="3222.1" y="-18741.2" r="0" s="6.623313903808594" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>801.6806722689075</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="3" type="image" x="5088.1" y="-19939.2" r="0" s="4.048725605010986">
+      <source w="123" h="181">67426341.png<url>67426341.png</url>
+      </source>
+    <resource><id>
+        67426341
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/f/76bd1215254e80ac9945df861e2e7e8fd4c65.png</url></resource></object>
+    <object id="15" type="image" x="3267.6" y="-9461.7" r="0" s="3.5074446201324463">
+      <source w="1189" h="695">67432099.png<url>67432099.png</url>
+      </source>
+    <resource><id>
+        67432099
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/2/0/e766662e617475e5b7861d826b68bb910da32.png</url></resource></object>
+    <object id="1" type="label" x="3340.2" y="-19022" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-181.8</x>
+        <y>-15.25</y>
+        <text><![CDATA[Computer Network Fundamentals]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Computer Network Fundamentals</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-29 { align: center; }</annotations>
+        <w>363.6</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="4" type="image" x="1319.9" y="-19939.2" r="0" s="3.557375431060791">
+      <source w="147" h="206">67426351.png<url>67426351.png</url>
+      </source>
+    <resource><id>
+        67426351
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/9/4/0c0c1546d5b8b910659c0d00b49cd2ed60a89.png</url></resource></object>
+    <object id="5" type="label" x="1319.45" y="-19416.8" r="0" s="3.737086296081543" class="body">
+      <textfield>
+        <x>-234.5</x>
+        <y>-30.8</y>
+        <text><![CDATA[Ministry of Communications and 
+Information Technology]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Ministry of Communications and</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Information Technology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-32 { align: center; }
+r32-54 { align: center; }</annotations>
+        <w>469.05</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="6" type="label" x="5143.8" y="-19470.85" r="0" s="3.737086296081543" class="body">
+      <textfield>
+        <x>-171.95</x>
+        <y>-16.4</y>
+        <text><![CDATA[Information Technology Institute]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Information Technology Institute</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-32 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="7" type="label" x="3181.35" y="-18610.8" r="0" s="7.3246893882751465" class="head">
+      <textfield>
+        <x>-128.15</x>
+        <y>-15.25</y>
+        <text><![CDATA[Haitham A. El-Ghareeb]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#20568E" LETTERSPACING="0" KERNING="0">Haitham A. El-Ghareeb</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-21 { align: center; }</annotations>
+        <w>256.3</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="8" type="label" x="3180.6" y="-17676.1" r="0" s="5.231921195983887" class="body">
+      <textfield>
+        <x>-287.1</x>
+        <y>-117.2</y>
+        <text><![CDATA[Assocoiate Lecturer, Information Systems Department
+Faculty of Computers and Information Sciences
+Mansoura University
+Egypt
+Mozilla ReMo
+twitter: @helghareeb
+helghareeb@acm.org
+www.helghareeb.net]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Assocoiate Lecturer, Information Systems Department</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Faculty of Computers and Information Sciences</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Mansoura University</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Egypt</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Mozilla ReMo</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">twitter: @helghareeb</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">helghareeb@acm.org</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">www.helghareeb.net</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-52 { align: center; }
+r52-98 { align: center; }
+r98-118 { align: center; }
+r118-124 { align: center; }
+r124-137 { align: center; }
+r137-158 { align: center; }
+r158-177 { align: center; }
+r177-195 { align: center; }</annotations>
+        <w>574.25</w>
+        <h>234.4</h>
+      </textfield>
+    </object>
+    <object id="13" type="button" x="3222.5" y="-13692.1" r="0" s="3.7944130897521973" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1253.225806451613</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="10" type="label" x="3269.35" y="-14543.4" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-104.1</x>
+        <y>-15.25</y>
+        <text><![CDATA[Course Description]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Course Description</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-18 { align: center; }</annotations>
+        <w>208.2</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="11" type="label" x="3406.05" y="-13868.4" r="0" s="8.224031448364258" class="body">
+      <textfield>
+        <x>-272.35</x>
+        <y>-30.8</y>
+        <text><![CDATA[Cover Principles and Practice of Computer  Networking (Emphasis on Internet Services)]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Cover Principles and Practice of Computer  Networking (Emphasis on Internet Services)</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-85 { align: center; }</annotations>
+        <w>544.7</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="12" type="label" x="3270.2" y="-13188.95" r="0" s="8.224031448364258" class="body">
+      <textfield>
+        <x>-308.3</x>
+        <y>-30.8</y>
+        <text><![CDATA[Explain the Structure and Components of Computer Networks (LAN, WAN, Internet Applications)]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Explain the Structure and Components of Computer Networks (LAN, WAN, Internet Applications)</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-91 { align: center; }</annotations>
+        <w>616.6</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="21" type="button" x="16342.3" y="-9477.05" r="0" s="3.722719430923462" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1911.9402985074628</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="16" type="label" x="16428.25" y="-9476.2" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-126.15</x>
+        <y>-15.25</y>
+        <text><![CDATA[Network Fundamentals]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Network Fundamentals</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-20 { align: center; }</annotations>
+        <w>252.3</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="17" type="label" x="18242.35" y="-10244.05" r="0" s="7.952793121337891" class="body">
+      <textfield>
+        <x>-197.15</x>
+        <y>-16.4</y>
+        <text><![CDATA[Lesson 1: The Network and its Benefits]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Lesson 1: The Network and its Benefits</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-38 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="18" type="label" x="18242.35" y="-8740.9" r="0" s="7.952793121337891" class="body">
+      <textfield>
+        <x>-173.95</x>
+        <y>-16.4</y>
+        <text><![CDATA[Lesson 2: Basic Network Elements]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Lesson 2: Basic Network Elements</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-32 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="19" type="label" x="14687.4" y="-8740.95" r="0" s="7.952793121337891" class="body">
+      <textfield>
+        <x>-187.8</x>
+        <y>-16.4</y>
+        <text><![CDATA[Lesson 3: Classifications of Networks]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Lesson 3: Classifications of Networks</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-37 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="20" type="label" x="14566.55" y="-10244" r="0" s="7.952793121337891" class="body">
+      <textfield>
+        <x>-201.5</x>
+        <y>-16.4</y>
+        <text><![CDATA[Lesson 4: Network Transmission Media]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Lesson 4: Network Transmission Media</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-36 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="23" type="image" x="9558.75" y="-9462.5" r="0" s="3.6972970962524414">
+      <source w="774" h="494">67434565.png<url>67434565.png</url>
+      </source>
+    <resource><id>
+        67434565
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/c/c/185e5a63d88741304934fa3ec5f9a1cdeea42.png</url></resource></object>
+    <object id="31" type="button" x="27239.7" y="-9672.1" r="0" s="3.547891139984131" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1596.190476190476</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="28" type="image" x="25369.95" y="-9209.55" r="0" s="2.6481311321258545">
+      <source w="617" h="385">67437439.png<url>67437439.png</url>
+      </source>
+    <resource><id>
+        67437439
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/b/5/229fd4bd0fad32d52592b06c00f976e113c41.png</url></resource></object>
+    <object id="39" type="button" x="34003.4" y="-9736.85" r="0" s="4.507584095001221" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>678.0213235294118</w>
+        <h>544.3249999999997</h>
+      </size>
+    </object>
+    <object id="38" type="image" x="33999.25" y="-9196.75" r="0" s="3.4932188987731934">
+      <source w="598" h="336">67439393.png<url>67439393.png</url>
+      </source>
+    <resource><id>
+        67439393
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/8/8/794b71e7bb40393ec8587b428acdea6cb44b1.png</url></resource></object>
+    <object id="24" type="label" x="27216.45" y="-10516.2" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-202.25</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 1: The Network and its Benefits]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 1: The Network and its Benefits</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-38 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="25" type="label" x="25370.9" y="-10065.15" r="0" s="7.952793121337891" class="strong">
+      <textfield>
+        <x>-109.1</x>
+        <y>-15.25</y>
+        <text><![CDATA[Computer Network: ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Computer Network:</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="26" type="label" x="28103.45" y="-10050.45" r="0" s="5.984870910644531" class="body">
+      <textfield>
+        <x>-293.35</x>
+        <y>-30.8</y>
+        <text><![CDATA[Collection of Computers and other devices or peripherals, connected together through Connecting Media ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Collection of Computers and other devices or peripherals, connected together through Connecting Media</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-102 { align: left; }</annotations>
+        <w>586.7</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="29" type="label" x="26931.1" y="-9524.4" r="0" s="5.984870910644531" class="strong">
+      <textfield>
+        <x>-97.5</x>
+        <y>-15.25</y>
+        <text><![CDATA[Peripheral Device:]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Peripheral Device:</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="30" type="label" x="28103.35" y="-9166.7" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-490.5</x>
+        <y>-74</y>
+        <text><![CDATA[A computer device, such as a CD-ROM drive or printer, that is not part of the essential computer, i.e., the memory and microprocessor. Peripheral devices can be external -- such as a mouse, keyboard, printer, monitor, external Zip drive or scanner -- or internal, such as a CD-ROM drive, CD-R drive or internal modem. Internal peripheral devices are often referred to as integrated peripherals. Source: WebOpedia "http://www.webopedia.com/TERM/P/peripheral_device.html"]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">
+              A computer device, such as a CD-ROM drive or printer, that is not part of the essential computer, i.e., the memory and microprocessor. Peripheral devices can be external -- such as a mouse, keyboard, printer, monitor, external Zip drive or scanner -- or internal, such as a CD-ROM drive, CD-R drive or internal modem. Internal peripheral devices are often referred to as integrated peripherals. Source: WebOpedia "
+              <A HREF="http://www.webopedia.com/TERM/P/peripheral_device.html" TARGET="_blank">
+                <U>http://www.webopedia.com/TERM/P/peripheral_device.html</U>
+              </A>
+              "
+            </FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-469 { align: left; }</annotations>
+        <w>981.05</w>
+        <h>148</h>
+      </textfield>
+    </object>
+    <object id="70" type="button" x="38843.15" y="-9972.55" r="0" s="3.0782785415649414" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1162.4499999999998</w>
+        <h>695.675</h>
+      </size>
+    </object>
+    <object id="43" type="image" x="39004.65" y="-10324.3" r="0" s="3.909000873565674">
+      <source w="709" h="203">67442703.png<url>67442703.png</url>
+      </source>
+    <resource><id>
+        67442703
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/f/d67f8a9b7dc10a44d802aefd0e039a964face.png</url></resource></object>
+    <object id="32" type="label" x="34024.5" y="-10707.35" r="0" s="7.952793121337891" class="strong">
+      <textfield>
+        <x>-161.95</x>
+        <y>-15.25</y>
+        <text><![CDATA[Benifits of Computer Networks]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Benifits of Computer Networks</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-29 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="33" type="label" x="33999.95" y="-10437.75" r="0" s="5.984870910644531" class="strong">
+      <textfield>
+        <x>-92.85</x>
+        <y>-15.25</y>
+        <text><![CDATA[Resource Sharing]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Resource Sharing</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="34" type="label" x="33064.6" y="-10209.8" r="0" s="5.234129905700684" class="body">
+      <textfield>
+        <x>-61.75</x>
+        <y>-16.4</y>
+        <text><![CDATA[File Sharing]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">File Sharing</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="35" type="label" x="34835.25" y="-10211.1" r="0" s="5.234129905700684" class="body">
+      <textfield>
+        <x>-95.25</x>
+        <y>-16.4</y>
+        <text><![CDATA[Peripheral Sharing]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Peripheral Sharing</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="36" type="label" x="34024.5" y="-9917.35" r="0" s="5.234124660491943" class="body">
+      <textfield>
+        <x>-216</x>
+        <y>-16.4</y>
+        <text><![CDATA[Software Sharing with Multi-user Liscence]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Software Sharing with Multi-user Liscence</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-41 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="53" type="image" x="38945.75" y="-9144.8" r="0" s="4.602861404418945">
+      <source w="96" h="53">67444211.png<url>67444211.png</url>
+      </source>
+    <resource><id>
+        67444211
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/4/f/19edd6f8f4c96ab4b9409246c35ce3def78e6.png</url></resource></object>
+    <object id="55" type="image" x="37409.55" y="-9697.25" r="0" s="6.377573490142822">
+      <source w="97" h="66">67444213.png<url>67444213.png</url>
+      </source>
+    <resource><id>
+        67444213
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/a/c/f18c2fc9c690402d19eb86218372d9b1e56ae.png</url></resource></object>
+    <object id="56" type="image" x="39297.75" y="-9697.6" r="0" s="5.198525905609131">
+      <source w="108" h="119">67444214.png<url>67444214.png</url>
+      </source>
+    <resource><id>
+        67444214
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/8/2e7715d32124ca098f36d4508243288d0bbe9.png</url></resource></object>
+    <object id="57" type="image" x="38252.8" y="-9144.45" r="0" s="4.952783584594727">
+      <source w="95" h="65">67444215.png<url>67444215.png</url>
+      </source>
+    <resource><id>
+        67444215
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/d/5/a3ecd59c60131ca566d445e7d5c103c317e8d.png</url></resource></object>
+    <object id="58" type="image" x="39554.5" y="-9145.3" r="0" s="5.090723514556885">
+      <source w="62" h="42">67444216.png<url>67444216.png</url>
+      </source>
+    <resource><id>
+        67444216
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/d/4/a0eeaa6dc87ebfb1ffa20ae34852ef895e17b.png</url></resource></object>
+    <object id="59" type="image" x="40125" y="-9145.3" r="0" s="3.8907220363616943">
+      <source w="159" h="43">67444218.png<url>67444218.png</url>
+      </source>
+    <resource><id>
+        67444218
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/2/c/1e4f401332cb208fc5e40882bc6bd708c601b.png</url></resource></object>
+    <object id="54" type="image" x="38053.9" y="-9697.35" r="0" s="4.482785701751709">
+      <source w="138" h="74">67444212.png<url>67444212.png</url>
+      </source>
+    <resource><id>
+        67444212
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/8/583b6b10c0fbfc6afb965348ba885b31cd5f0.png</url></resource></object>
+    <object id="60" type="image" x="40124.95" y="-9835.3" r="0" s="4.758650302886963">
+      <source w="111" h="130">67444219.png<url>67444219.png</url>
+      </source>
+    <resource><id>
+        67444219
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/8/7/46c616167f9a90a5e420b38c1167350c10aef.png</url></resource></object>
+    <object id="61" type="image" x="38675.3" y="-9697.35" r="0" s="4.602861404418945">
+      <source w="93" h="96">67444224.png<url>67444224.png</url>
+      </source>
+    <resource><id>
+        67444224
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/b/5/9a6f830ff8ad27519b36eb29d41a05a65db04.png</url></resource></object>
+    <object id="62" type="label" x="37409.6" y="-9501.65" r="0" s="1.9842952489852905" class="body">
+      <textfield>
+        <x>-124.55</x>
+        <y>-16.4</y>
+        <text><![CDATA[Computers / Peripherals]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Computers / Peripherals</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-23 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="63" type="label" x="38161.75" y="-9456" r="0" s="1.4226714372634888" class="body">
+      <textfield>
+        <x>-259.8</x>
+        <y>-45.2</y>
+        <text><![CDATA[NIC (Network Interface Card)
+The hardware that plugs into the motherboard and directly access the network]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">NIC (Network Interface Card)</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The hardware that plugs into the motherboard and directly access the network</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-29 { align: left; }
+r29-105 { align: left; }</annotations>
+        <w>519.6</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="64" type="label" x="40183.7" y="-9015.55" r="0" s="1.4226714372634888" class="body">
+      <textfield>
+        <x>-276.6</x>
+        <y>-30.8</y>
+        <text><![CDATA[Hub: 
+Allow different nodes to communicate with each other]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Hub:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Allow different nodes to communicate with each other</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-6 { align: left; }
+r6-58 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="65" type="label" x="39051.95" y="-8995.05" r="0" s="1.4226714372634888" class="body">
+      <textfield>
+        <x>-278</x>
+        <y>-45.2</y>
+        <text><![CDATA[Switch:
+Allow different nodes to communicate with each other at the same time without slowing each other down. ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Switch:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Allow different nodes to communicate with each other at the same time without slowing each other down.</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-8 { align: left; }
+r8-111 { align: left; }</annotations>
+        <w>556</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="66" type="label" x="38214.6" y="-8983.6" r="0" s="1.4226714372634888" class="body">
+      <textfield>
+        <x>-296.95</x>
+        <y>-30.8</y>
+        <text><![CDATA[Router:
+Allow different networks to communicate with each other. ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Router:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Allow different networks to communicate with each other.</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-8 { align: left; }
+r8-65 { align: left; }</annotations>
+        <w>593.9</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="67" type="label" x="38791.85" y="-9463.25" r="0" s="1.4226714372634888" class="body">
+      <textfield>
+        <x>-95.3</x>
+        <y>-16.4</y>
+        <text><![CDATA[Connecting Media]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Connecting Media</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="68" type="label" x="39265.5" y="-9561.1" r="0" s="1.4226714372634888" class="body">
+      <textfield>
+        <x>-103.9</x>
+        <y>-16.4</y>
+        <text><![CDATA[Networking Devices]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Networking Devices</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="69" type="label" x="40154.2" y="-9481.65" r="0" s="1.4226714372634888" class="body">
+      <textfield>
+        <x>-255.95</x>
+        <y>-16.4</y>
+        <text><![CDATA[Communication rules that all entity must agree on
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Communication rules that all entity must agree on</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-50 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="71" type="label" x="38994.75" y="-10878.25" r="0" s="7.585483551025391" class="strong">
+      <textfield>
+        <x>-62.55</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 2]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 2</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-8 { align: center; }</annotations>
+        <w>125.15</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="76" type="button" x="45336.85" y="-9655.05" r="0" s="3.2393765449523926" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1356.6900971283785</w>
+        <h>807.505859375</h>
+      </size>
+    </object>
+    <object id="72" type="label" x="45368.6" y="-10688" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-185.6</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 3: Classificatios of Networks]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 3: Classificatios of Networks</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-36 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="75" type="image" x="45368.4" y="-9823" r="0" s="6.242401599884033">
+      <source w="669" h="189">67466067.png<url>67466067.png</url>
+      </source>
+    <resource><id>
+        67466067
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/8/6/36e6ac1c5a1cfd421ed9a4d8d8550c77be836.png</url></resource></object>
+    <object id="263" type="button" x="43847.55" y="-9139.5" r="0" s="0.8688228726387024" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1540.0000000000002</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="79" type="image" x="43401.25" y="-9194.3" r="0" s="0.5440990328788757">
+      <source w="684" h="454">67466743.png<url>67466743.png</url>
+      </source>
+    <resource><id>
+        67466743
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/e/0/6e5d39485c0ac7cb3721f00c87137595cf32b.png</url></resource></object>
+    <object id="82" type="image" x="43883.3" y="-9194.15" r="0" s="0.6728835105895996">
+      <source w="607" h="465">67467803.png<url>67467803.png</url>
+      </source>
+    <resource><id>
+        67467803
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/c/f/3233d64e593ed3404ddc7247808dbafd6907f.png</url></resource></object>
+    <object id="80" type="label" x="43380.55" y="-9018.85" r="0" s="0.9342715740203857" class="body">
+      <textfield>
+        <x>-210.25</x>
+        <y>-45.2</y>
+        <text><![CDATA[Group of computers connected in 
+small geographical area
+Allow users to share files and services
+]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Group of computers connected in</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">small geographical area</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Allow users to share files and services</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-33 { bullet: true; }
+r0-33 { align: center; }
+r33-57 { align: center; }
+r57-97 { bullet: true; }
+r57-97 { align: center; }</annotations>
+        <w>420.55</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="83" type="label" x="43865.95" y="-8976.35" r="0" s="0.9342715740203857" class="body">
+      <textfield>
+        <x>-248.1</x>
+        <y>-45.2</y>
+        <text><![CDATA[Group of computers connected in Large geographical area such as country 
+Often connects two LANs (WAN Link)]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Group of computers connected in Large geographical area such as country</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Often connects two LANs (WAN Link)</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-73 { bullet: true; }
+r0-73 { align: center; }
+r73-107 { bullet: true; }
+r73-107 { align: center; }</annotations>
+        <w>496.25</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="85" type="image" x="44323.85" y="-9194.05" r="0" s="0.5203489065170288">
+      <source w="648" h="429">67480772.png<url>67480772.png</url>
+      </source>
+    <resource><id>
+        67480772
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/d/8/2774434f1574cf89fa9ee7835e97a4010bd7a.png</url></resource></object>
+    <object id="86" type="label" x="44332.85" y="-8977.85" r="0" s="0.8644983172416687" class="body">
+      <textfield>
+        <x>-200</x>
+        <y>-45.2</y>
+        <text><![CDATA[connects an area larger than a LAN but 
+smaller than a WAN, 
+such as a city.]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">connects an area larger than a LAN but</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">smaller than a WAN,</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">such as a city.</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-40 { align: left; }
+r40-61 { align: left; }
+r61-76 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="264" type="button" x="45402" y="-8924.2" r="0" s="1.4247829914093018" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>787.7837837837839</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="88" type="image" x="45081.55" y="-9116.85" r="0" s="1.2655812501907349">
+      <source w="352" h="373">67481820.png<url>67481820.png</url>
+      </source>
+    <resource><id>
+        67481820
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/9/5/fa2ee8828a139666e4a2b5a42a5057b337991.png</url></resource></object>
+    <object id="89" type="label" x="45081.4" y="-8783" r="0" s="0.8644983172416687" class="body">
+      <textfield>
+        <x>-217.25</x>
+        <y>-117.2</y>
+        <text><![CDATA[All computers are considered equal
+They all have the same abilities to use the resources available on the network. 
+Example : Windows Workgroup (file and print sharing)
+computers can act both as a client and a server
+Also referred to as peers. ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">All computers are considered equal</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">They all have the same abilities to use the resources available on the network.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Example : Windows Workgroup (file and print sharing)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">computers can act both as a client and a server</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Also referred to as peers.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-35 { bullet: true; }
+r0-35 { align: left; }
+r35-116 { bullet: true; }
+r35-116 { align: left; }
+r116-169 { bullet: true; }
+r116-169 { align: left; }
+r169-217 { bullet: true; }
+r169-217 { align: left; }
+r217-244 { bullet: true; }
+r217-244 { align: left; }</annotations>
+        <w>434.5</w>
+        <h>234.4</h>
+      </textfield>
+    </object>
+    <object id="91" type="image" x="45619.7" y="-9148" r="0" s="0.8744882345199585">
+      <source w="460" h="384">67482974.png<url>67482974.png</url>
+      </source>
+    <resource><id>
+        67482974
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/0/6/51b088bfea6f8118ef3f57f9a3dfc57c9b189.png</url></resource></object>
+    <object id="94" type="image" x="45619.5" y="-8758.15" r="0" s="0.5900890231132507">
+      <source w="529" h="280">67484227.png<url>67484227.png</url>
+      </source>
+    <resource><id>
+        67484227
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/2/9/2c548f636b867e23777e0a324b8d5459623be.png</url></resource></object>
+    <object id="92" type="label" x="45645.4" y="-8926.75" r="0" s="0.6921676397323608" class="body">
+      <textfield>
+        <x>-376.25</x>
+        <y>-88.4</y>
+        <text><![CDATA[Some nodes (SERVER) are dedicated to present services to other nodes (CLIENTS)
+The computers providing the service are called servers 
+Computers that request and use the service are called client computers.
+Examples: Mail Server, Web Serve, File Server]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Some nodes (SERVER) are dedicated to present services to other nodes (CLIENTS)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The computers providing the service are called servers</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Computers that request and use the service are called client computers.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Examples: Mail Server, Web Serve, File Server</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-79 { bullet: true; }
+r0-79 { align: left; }
+r79-135 { bullet: true; }
+r79-135 { align: left; }
+r135-207 { bullet: true; }
+r135-207 { align: left; }
+r207-252 { bullet: true; }
+r207-252 { align: left; }</annotations>
+        <w>752.5</w>
+        <h>176.8</h>
+      </textfield>
+    </object>
+    <object id="95" type="label" x="45619.5" y="-8601.7" r="0" s="0.8644983172416687" class="body">
+      <textfield>
+        <x>-244.6</x>
+        <y>-88.4</y>
+        <text><![CDATA[First, client initiates a request sent to a certain server, then the server replies with the service required to the client.
+There are many clients and one server, (actually, the number of servers is very small compared with the number of clients)]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">First, client initiates a request sent to a certain server, then the server replies with the service required to the client.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">There are many clients and one server, (actually, the number of servers is very small compared with the number of clients)</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-125 { bullet: true; }
+r0-125 { align: left; }
+r125-247 { bullet: true; }
+r125-247 { align: left; }</annotations>
+        <w>489.25</w>
+        <h>176.8</h>
+      </textfield>
+    </object>
+    <object id="265" type="button" x="46842.2" y="-8897.2" r="0" s="1.5967836380004883" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>804.5016077170418</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="103" type="image" x="46842.6" y="-8707.85" r="0" s="1.3502317667007446">
+      <source w="574" h="432">67495965.png<url>67495965.png</url>
+      </source>
+    <resource><id>
+        67495965
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/d/e/b94045f45b68fbd09631979a6f94dd8ca6188.png</url></resource></object>
+    <object id="96" type="label" x="46842.65" y="-9187.4" r="0" s="1.397822618484497" class="body">
+      <textfield>
+        <x>-455.55</x>
+        <y>-117.2</y>
+        <text><![CDATA[Topology refers to the shape of a network, or the network's layout.
+Topology: how, and in what shape, network components are connected together
+Each topology is suited to specific tasks and has its own advantages and disadvantages. 
+How different nodes in a network are connected to each other and how they communicate are determined by the network's topology. 
+The choice of topology is dependent upon:
+1. Type and number of equipment being used 
+2.Cost ]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Topology refers to the shape of a network, or the network's layout.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Topology: how, and in what shape, network components are connected together</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Each topology is suited to specific tasks and has its own advantages and disadvantages.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">How different nodes in a network are connected to each other and how they communicate are determined by the network's topology.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The choice of topology is dependent upon:</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">1. Type and number of equipment being used</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">2.Cost</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-68 { bullet: true; }
+r0-68 { align: center; }
+r68-144 { bullet: true; }
+r68-144 { align: center; }
+r144-233 { bullet: true; }
+r144-233 { align: center; }
+r233-362 { bullet: true; }
+r233-362 { align: center; }
+r362-404 { bullet: true; }
+r362-404 { align: center; }
+r404-448 { align: center; }
+r448-455 { align: center; }</annotations>
+        <w>911.1</w>
+        <h>234.4</h>
+      </textfield>
+    </object>
+    <object id="116" type="button" x="50361.15" y="-15571.1" r="0" s="4.306135654449463" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>631.525073313783</w>
+        <h>592.4</h>
+      </size>
+    </object>
+    <object id="104" type="label" x="50298.35" y="-16670.25" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-72.25</x>
+        <y>-15.25</y>
+        <text><![CDATA[Bus Topology]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Bus Topology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="117" type="button" x="54929.65" y="-15570.7" r="0" s="3.264969825744629" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1023.3384063444108</w>
+        <h>631.5</h>
+      </size>
+    </object>
+    <object id="105" type="youtube" x="54108.3" y="-15674.35" r="0" s="4.54504919052124" onFocus="start" onLeave="pause">
+      <source>oVOeNcJJYos</source>
+    </object>
+    <object id="106" type="label" x="50357.2" y="-15991.9" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-375.45</x>
+        <y>-131.6</y>
+        <text><![CDATA[All devices are connected to a central cable, called the bus or backbone.
+Both ends of the network must be terminated with a terminator. 
+A parrel connector can be used to extend the network. 
+The backbone functions as a shared communication medium 
+Device wanting to communicate with another device on the network sends a message onto the backbone.
+The message is heard by all stations, but only the intended recipient actually accepts and processes the message. 
+Terminator absorbs frames at end of medium.]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">All devices are connected to a central cable, called the bus or backbone.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Both ends of the network must be terminated with a terminator.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">A parrel connector can be used to extend the network.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The backbone functions as a shared communication medium</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Device wanting to communicate with another device on the network sends a message onto the backbone.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The message is heard by all stations, but only the intended recipient actually accepts and processes the message.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Terminator absorbs frames at end of medium.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-74 { bullet: true; }
+r0-74 { align: left; }
+r74-138 { bullet: true; }
+r74-138 { align: left; }
+r138-193 { bullet: true; }
+r138-193 { align: left; }
+r193-250 { bullet: true; }
+r193-250 { align: left; }
+r250-350 { bullet: true; }
+r250-350 { align: left; }
+r350-465 { bullet: true; }
+r350-465 { align: left; }
+r465-508 { bullet: true; }
+r465-508 { align: left; }</annotations>
+        <w>750.9</w>
+        <h>263.2</h>
+      </textfield>
+    </object>
+    <object id="109" type="image" x="50298.35" y="-14941.7" r="0" s="3.407085657119751">
+      <source w="656" h="332">67498163.png<url>67498163.png</url>
+      </source>
+    <resource><id>
+        67498163
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/0/9/db2432b3c48892f1e8ff89260cde46e5975d7.png</url></resource></object>
+    <object id="110" type="label" x="54830.1" y="-16435.45" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-72.25</x>
+        <y>-15.25</y>
+        <text><![CDATA[Bus Topology]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Bus Topology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="113" type="image" x="54097.65" y="-14867" r="0" s="3.611909866333008">
+      <source w="442" h="108">67499074.png<url>67499074.png</url>
+      </source>
+    <resource><id>
+        67499074
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/2/2/9e513fdb5518b4e226c51cf5185fe888f0375.png</url></resource></object>
+    <object id="114" type="image" x="55732.9" y="-15621.95" r="0" s="2.4598824977874756">
+      <source w="649" h="354">67499089.png<url>67499089.png</url>
+      </source>
+    <resource><id>
+        67499089
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/4/b/2f1d79dcc45593b629c7f7abe0365ba2d2ad9.png</url></resource></object>
+    <object id="129" type="button" x="50509.25" y="-12469.45" r="0" s="4.973245620727539" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>806.9459893048128</w>
+        <h>616.05</h>
+      </size>
+    </object>
+    <object id="121" type="image" x="50450.5" y="-12866.1" r="0" s="2.5837628841400146">
+      <source w="501" h="343">67500705.png<url>67500705.png</url>
+      </source>
+    <resource><id>
+        67500705
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/c/7/760ed0268bd78aff4de5eb147dcda17770a03.png</url></resource></object>
+    <object id="126" type="image" x="49202.65" y="-11612.55" r="0" s="2.647170066833496">
+      <source w="489" h="334">67501376.png<url>67501376.png</url>
+      </source>
+    <resource><id>
+        67501376
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/e/1/006cc9070922f72552d82fe548a3e2a0f4752.png</url></resource></object>
+    <object id="128" type="image" x="51709.3" y="-11612.55" r="0" s="2.680051565170288">
+      <source w="483" h="335">67501498.png<url>67501498.png</url>
+      </source>
+    <resource><id>
+        67501498
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/7/0/f28dc849b2412f518c43f4f30918da1cff1cf.png</url></resource></object>
+    <object id="118" type="label" x="50457.5" y="-13817.85" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-74.9</x>
+        <y>-15.25</y>
+        <text><![CDATA[Star Topology]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Star Topology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="119" type="label" x="50516.4" y="-13511.7" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-481.35</x>
+        <y>-30.8</y>
+        <text><![CDATA[A physical Star topology connects the devices via a centralized unit such as a Hub or Switch. 
+Nodes communicate across the network by passing data through the central device. 
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">A physical Star topology connects the devices via a centralized unit such as a Hub or Switch.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Nodes communicate across the network by passing data through the central device.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-95 { bullet: true; }
+r0-95 { align: left; }
+r95-177 { bullet: true; }
+r95-177 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="122" type="shape" x="49498.25" y="-12451.25" r="-50.97817544004601" s="10.254565605761297" class="line3">
+      <geom type="arrow">
+        <sp>39.547890272427935 0</sp>
+        <ep>-39.547890272427935 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="123" type="shape" x="51454.3" y="-12465.5" r="45.939215813040384" s="10.238041185201645" class="line3">
+      <geom type="arrow">
+        <sp>-41.093947871278736 0</sp>
+        <ep>41.093947871278736 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="137" type="button" x="55722.8" y="-12469.2" r="0" s="3.4449028968811035" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>974.3131578947368</w>
+        <h>604.6</h>
+      </size>
+    </object>
+    <object id="130" type="label" x="55585.05" y="-13213.65" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-74.9</x>
+        <y>-15.25</y>
+        <text><![CDATA[Star Topology]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Star Topology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="133" type="image" x="54434.35" y="-12600.2" r="0" s="4.234447002410889">
+      <source w="116" h="107">67502100.png<url>67502100.png</url>
+      </source>
+    <resource><id>
+        67502100
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/e/a0fa146ff24bc42a076d622df01f5fc441ec2.png</url></resource></object>
+    <object id="134" type="image" x="56885.55" y="-11892.2" r="0" s="3.961256504058838">
+      <source w="124" h="107">67502114.png<url>67502114.png</url>
+      </source>
+    <resource><id>
+        67502114
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/4/8/03794a20d3343c925af19c301733e8dd61dfd.png</url></resource></object>
+    <object id="135" type="label" x="56020.75" y="-12651.3" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-370.15</x>
+        <y>-102.8</y>
+        <text><![CDATA[Single computer failure doesn’t bring down whole network
+Adding new devices to a Star network is very simple compared to any of the other topologies
+No disruptions to the network when connecting or removing devices. 
+Centralized control 
+Centralized network/hub monitoring 
+Easy to troubleshoot]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Single computer failure doesn’t bring down whole network</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Adding new devices to a Star network is very simple compared to any of the other topologies</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">No disruptions to the network when connecting or removing devices.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Centralized control</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Centralized network/hub monitoring</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Easy to troubleshoot</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-57 { bullet: true; }
+r0-57 { align: left; }
+r57-149 { bullet: true; }
+r57-149 { align: left; }
+r149-217 { bullet: true; }
+r149-217 { align: left; }
+r217-238 { bullet: true; }
+r217-238 { align: left; }
+r238-274 { bullet: true; }
+r238-274 { align: left; }
+r274-294 { bullet: true; }
+r274-294 { align: left; }</annotations>
+        <w>740.3</w>
+        <h>205.6</h>
+      </textfield>
+    </object>
+    <object id="144" type="button" x="50641.05" y="-9434.9" r="0" s="2.5976741313934326" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1187.7052486187845</w>
+        <h>897.1</h>
+      </size>
+    </object>
+    <object id="142" type="image" x="50029.6" y="-9504.7" r="0" s="2.207811117172241">
+      <source w="452" h="302">67504788.png<url>67504788.png</url>
+      </source>
+    <resource><id>
+        67504788
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/2/a/d63c9cb4fe3ee656681c04a0b497346d5ff7e.png</url></resource></object>
+    <object id="136" type="label" x="55304.1" y="-11892.65" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-332.25</x>
+        <y>-74</y>
+        <text><![CDATA[If central device fails, the whole network fails
+Compared to the bus topology, a star network generally requires more cable
+More expensive than linear bus topologies because of the cost of the central device 
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">If central device fails, the whole network fails</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Compared to the bus topology, a star network generally requires more cable</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">More expensive than linear bus topologies because of the cost of the central device</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-49 { bullet: true; }
+r0-49 { align: left; }
+r49-124 { bullet: true; }
+r49-124 { align: left; }
+r124-209 { bullet: true; }
+r124-209 { align: left; }</annotations>
+        <w>664.55</w>
+        <h>148</h>
+      </textfield>
+    </object>
+    <object id="138" type="youtube" x="51888.05" y="-12995.45" r="0" s="2.889596700668335" onFocus="start" onLeave="pause">
+      <source>aNxxrawNu48</source>
+    </object>
+    <object id="139" type="label" x="50742.15" y="-10401.8" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-77.6</x>
+        <y>-15.25</y>
+        <text><![CDATA[Ring Topology]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Ring Topology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="140" type="label" x="50632.85" y="-10050.7" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-414.7</x>
+        <y>-45.2</y>
+        <text><![CDATA[All devices are connected to one another in the shape of a closed loop, so that each device is connected directly to two other devices, one on either side of it.  
+Data is passed one way from device to device. ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">All devices are connected to one another in the shape of a closed loop, so that each device is connected directly to two other devices, one on either side of it.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Data is passed one way from device to device.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-164 { bullet: true; }
+r0-164 { align: left; }
+r164-210 { bullet: true; }
+r164-210 { align: left; }</annotations>
+        <w>829.4</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="143" type="youtube" x="51354.65" y="-9533.1" r="0" s="2.2415361404418945" onFocus="start" onLeave="pause">
+      <source>U6TX4Zbu2ao</source>
+    </object>
+    <object id="146" type="image" x="49443.45" y="-8930.75" r="0" s="4.234447002410889">
+      <source w="116" h="107">67502100.png<url>67502100.png</url>
+      </source>
+    <resource><id>
+        67502100
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/e/a0fa146ff24bc42a076d622df01f5fc441ec2.png</url></resource></object>
+    <object id="148" type="label" x="50409.35" y="-8931.3" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-167.1</x>
+        <y>-16.4</y>
+        <text><![CDATA[Perform well under heavy traffic.]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Perform well under heavy traffic.</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-33 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="149" type="image" x="51740.55" y="-8574.55" r="0" s="3.961256504058838">
+      <source w="124" h="107">67502114.png<url>67502114.png</url>
+      </source>
+    <resource><id>
+        67502114
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/4/8/03794a20d3343c925af19c301733e8dd61dfd.png</url></resource></object>
+    <object id="164" type="button" x="50375.5" y="-6876.75" r="0" s="3.406968355178833" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>857.1428571428571</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="157" type="image" x="51148.95" y="-6976.35" r="0" s="2.4748270511627197">
+      <source w="335" h="163">67510372.png<url>67510372.png</url>
+      </source>
+    <resource><id>
+        67510372
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/7/6/9227b2c20a82c0ece2431be3ea1f3c8384920.png</url></resource></object>
+    <object id="150" type="label" x="50299.95" y="-8515.95" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-321.45</x>
+        <y>-45.2</y>
+        <text><![CDATA[If one device/cable fails then the whole network goes down. 
+Difficult to troubleshoot
+Adding/Removing computers disrupts the whole network
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">If one device/cable fails then the whole network goes down.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Difficult to troubleshoot</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Adding/Removing computers disrupts the whole network</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-61 { bullet: true; }
+r0-61 { align: left; }
+r61-87 { bullet: true; }
+r61-87 { align: left; }
+r87-140 { bullet: true; }
+r87-140 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="153" type="image" x="49791" y="-6976.35" r="0" s="2.15313458442688">
+      <source w="649" h="289">67508930.png<url>67508930.png</url>
+      </source>
+    <resource><id>
+        67508930
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/e/0de3c0872518c9a8e7da475daa2a184e06eca.png</url></resource></object>
+    <object id="154" type="label" x="50331.75" y="-7690.8" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-80.9</x>
+        <y>-15.25</y>
+        <text><![CDATA[Mesh Topology]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Mesh Topology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="155" type="label" x="50375.1" y="-7418.6" r="0" s="3.569509983062744" class="body">
+      <textfield>
+        <x>-384.2</x>
+        <y>-30.8</y>
+        <text><![CDATA[In a mesh topology each device/PC is connected to every other device/PC in the network by its own cable]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">In a mesh topology each device/PC is connected to every other device/PC in the network by its own cable</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-103 { align: center; }</annotations>
+        <w>768.45</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="158" type="label" x="50916.6" y="-6709.3" r="0" s="1.9247032403945923" class="body">
+      <textfield>
+        <x>-51.8</x>
+        <y>-16.4</y>
+        <text><![CDATA[Full Mesh]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Full Mesh</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="159" type="label" x="51371.9" y="-6709.3" r="0" s="1.9247032403945923" class="body">
+      <textfield>
+        <x>-65.2</x>
+        <y>-16.4</y>
+        <text><![CDATA[Partial Mesh]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Partial Mesh</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="160" type="label" x="50687.3" y="-6437.4" r="0" s="2.5636415481567383" class="body">
+      <textfield>
+        <x>-406.95</x>
+        <y>-16.4</y>
+        <text><![CDATA[Mesh topology boasts the highest fault tolerance of all of the network topologies 
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Mesh topology boasts the highest fault tolerance of all of the network topologies</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-83 { align: left; }</annotations>
+        <w>813.95</w>
+        <h>32.8</h>
+      </textfield>
+    </object>
+    <object id="161" type="image" x="49361.45" y="-6442.95" r="0" s="4.234447002410889">
+      <source w="116" h="107">67502100.png<url>67502100.png</url>
+      </source>
+    <resource><id>
+        67502100
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/e/a0fa146ff24bc42a076d622df01f5fc441ec2.png</url></resource></object>
+    <object id="162" type="image" x="51511.05" y="-6103.5" r="0" s="3.961256504058838">
+      <source w="124" h="107">67502114.png<url>67502114.png</url>
+      </source>
+    <resource><id>
+        67502114
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/4/8/03794a20d3343c925af19c301733e8dd61dfd.png</url></resource></object>
+    <object id="163" type="label" x="50125.55" y="-6125.15" r="0" s="2.5636415481567383" class="body">
+      <textfield>
+        <x>-431.75</x>
+        <y>-16.4</y>
+        <text><![CDATA[Because each connection needs its own cable a Mesh topology can get very expensive. ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Because each connection needs its own cable a Mesh topology can get very expensive.</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-84 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="174" type="button" x="50402.45" y="-4592.5" r="0" s="3.3888370990753174" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>828.3514925373136</w>
+        <h>613.45</h>
+      </size>
+    </object>
+    <object id="165" type="label" x="50407.7" y="-5449.15" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-90.25</x>
+        <y>-15.25</y>
+        <text><![CDATA[Hybrid Topology]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Hybrid Topology</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="166" type="label" x="50384.55" y="-5213.8" r="0" s="3.9936892986297607" class="body">
+      <textfield>
+        <x>-285.35</x>
+        <y>-16.4</y>
+        <text><![CDATA[Hybrid means that there is more than one topology exist]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Hybrid means that there is more than one topology exist</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-55 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="168" type="image" x="49700.3" y="-4775.25" r="0" s="2.2544777393341064">
+      <source w="546" h="313">67511872.png<url>67511872.png</url>
+      </source>
+    <resource><id>
+        67511872
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/3/0/c3aa68d6ef1c7ab2d399ff5f9d1251a9cf939.png</url></resource></object>
+    <object id="169" type="label" x="51082.6" y="-4835.95" r="0" s="2.799638509750366" class="body">
+      <textfield>
+        <x>-204.05</x>
+        <y>-30.8</y>
+        <text><![CDATA[Groups of star-configured networks are connected to a linear bus backbone ]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Groups of star-configured networks are connected to a linear bus backbone</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-74 { align: left; }</annotations>
+        <w>408.1</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="170" type="image" x="49389.15" y="-4129.25" r="0" s="4.234447002410889">
+      <source w="116" h="107">67502100.png<url>67502100.png</url>
+      </source>
+    <resource><id>
+        67502100
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/e/a0fa146ff24bc42a076d622df01f5fc441ec2.png</url></resource></object>
+    <object id="171" type="label" x="50149.4" y="-4129.3" r="0" s="2.799638509750366" class="body">
+      <textfield>
+        <x>-147.05</x>
+        <y>-16.4</y>
+        <text><![CDATA[Network expansion is simple]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Network expansion is simple</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-27 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="173" type="image" x="51408.9" y="-3818.2" r="0" s="3.961256504058838">
+      <source w="124" h="107">67502114.png<url>67502114.png</url>
+      </source>
+    <resource><id>
+        67502114
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/4/8/03794a20d3343c925af19c301733e8dd61dfd.png</url></resource></object>
+    <object id="172" type="label" x="50417.65" y="-3757.85" r="0" s="2.799638509750366" class="body">
+      <textfield>
+        <x>-242.8</x>
+        <y>-30.8</y>
+        <text><![CDATA[If hub fails connections between failed hub and other hubs will fail
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">If hub fails connections between failed hub and other hubs will fail</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-69 { align: left; }</annotations>
+        <w>485.65</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="252" type="button" x="59125.05" y="-8855.05" r="0" s="7.6417622566223145" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>928</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="175" type="label" x="59290.05" y="-10740.2" r="0" s="10.254566192626953" class="strong">
+      <textfield>
+        <x>-206.2</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 4: Network Transmission Media]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 4: Network Transmission Media</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-36 { align: left; }</annotations>
+        <w>412.45</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="176" type="label" x="59290.35" y="-10292.9" r="0" s="8.902639389038086" class="body">
+      <textfield>
+        <x>-326.3</x>
+        <y>-30.8</y>
+        <text><![CDATA[To transmit data, a medium must exist
+The medium can be in the form of cables or wireless medium]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">To transmit data, a medium must exist</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The medium can be in the form of cables or wireless medium</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-38 { bullet: true; }
+r0-38 { align: left; }
+r38-96 { bullet: true; }
+r38-96 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="179" type="image" x="57491.2" y="-9101.85" r="0" s="4.588267803192139">
+      <source w="293" h="313">67515943.png<url>67515943.png</url>
+      </source>
+    <resource><id>
+        67515943
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/6/1/b5fa4d611a83480c7ff4c0e88e74b02d7d4d1.png</url></resource></object>
+    <object id="180" type="image" x="61389.6" y="-9101.85" r="0" s="5.003929615020752">
+      <source w="249" h="287">67515948.png<url>67515948.png</url>
+      </source>
+    <resource><id>
+        67515948
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/c/80383ff733f4d1b8a4aa546c3b18158fcce4a.png</url></resource></object>
+    <object id="181" type="label" x="57663.8" y="-7840.5" r="0" s="6.539454936981201" class="body">
+      <textfield>
+        <x>-317.75</x>
+        <y>-88.4</y>
+        <text><![CDATA[There are several types of cable which are commonly used with LANs. 
+In some cases, a network will utilize only one type of cable, other networks will use a variety of cable types. 
+The type of cable chosen for a network is related to the network's topology, protocol, and size. ]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">There are several types of cable which are commonly used with LANs.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">In some cases, a network will utilize only one type of cable, other networks will use a variety of cable types.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The type of cable chosen for a network is related to the network's topology, protocol, and size.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-69 { bullet: true; }
+r0-69 { align: center; }
+r69-182 { bullet: true; }
+r69-182 { align: center; }
+r182-279 { bullet: true; }
+r182-279 { align: center; }</annotations>
+        <w>635.5</w>
+        <h>176.8</h>
+      </textfield>
+    </object>
+    <object id="189" type="button" x="66793" y="-11491.15" r="0" s="6.303523540496826" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>740.3805045871559</w>
+        <h>633.05</h>
+      </size>
+    </object>
+    <object id="184" type="image" x="65274.95" y="-12360.35" r="0" s="7.253170490264893">
+      <source w="198" h="192">67519430.png<url>67519430.png</url>
+      </source>
+    <resource><id>
+        67519430
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/8/e/4e05dd03687f5d4aed4f3ffeaeda3c79066b4.png</url></resource></object>
+    <object id="186" type="image" x="67651.8" y="-12360.35" r="0" s="4.6525797843933105">
+      <source w="605" h="398">67521694.png<url>67521694.png</url>
+      </source>
+    <resource><id>
+        67521694
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/9/6/5499bee09317e82e798fa7c2020378cc8685f.png</url></resource></object>
+    <object id="188" type="image" x="66628.05" y="-10579.5" r="0" s="4.644900798797607">
+      <source w="606" h="398">67522641.png<url>67522641.png</url>
+      </source>
+    <resource><id>
+        67522641
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/8/b/1d99320e6f74906827f99560d02580007c897.png</url></resource></object>
+    <object id="202" type="button" x="66793.35" y="-7845.65" r="0" s="4.395236968994141" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1126.1615384615384</w>
+        <h>589.25</h>
+      </size>
+    </object>
+    <object id="191" type="image" x="65792.4" y="-8217.9" r="0" s="4.683545112609863">
+      <source w="601" h="372">67523178.png<url>67523178.png</url>
+      </source>
+    <resource><id>
+        67523178
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/4/80dd3daa8de8fde7a7eddcf243987319edaf9.png</url></resource></object>
+    <object id="193" type="image" x="68252.05" y="-8217.95" r="0" s="6.037775039672852">
+      <source w="333" h="128">67523649.png<url>67523649.png</url>
+      </source>
+    <resource><id>
+        67523649
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/c/b/af30bd420920e3ffde43001410ab53f82b79f.png</url></resource></object>
+    <object id="211" type="button" x="66793" y="-4968.55" r="0" s="4.007645130157471" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1306.5500000000006</w>
+        <h>585.4</h>
+      </size>
+    </object>
+    <object id="210" type="image" x="67644.9" y="-4971.3" r="0" s="5.287784576416016">
+      <source w="595" h="394">67527621.png<url>67527621.png</url>
+      </source>
+    <resource><id>
+        67527621
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/d/164e52ed5605647f1cee1173f7b721cd0516e.png</url></resource></object>
+    <object id="194" type="label" x="67509.45" y="-5744.95" r="0" s="10.254566192626953" class="body">
+      <textfield>
+        <x>-12.8</x>
+        <y>-16.4</y>
+        <text><![CDATA[من راقب الناس مات هماً
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">من راقب الناس مات هماً</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-23 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="198" type="image" x="68083.3" y="-6941.25" r="0" s="3.513535261154175">
+      <source w="612" h="74">67526002.png<url>67526002.png</url>
+      </source>
+    <resource><id>
+        67526002
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/9/3/2fb8b8105700a2183de98438a6631b0068a67.png</url></resource></object>
+    <object id="206" type="button" x="72495.85" y="-8049.75" r="0" s="3.7334179878234863" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>952.9411764705882</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="205" type="image" x="72430" y="-7844.35" r="0" s="4.475196838378906">
+      <source w="608" h="382">67526858.png<url>67526858.png</url>
+      </source>
+    <resource><id>
+        67526858
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/9/78e5d08df4810d3d83768f6be653500c77287.png</url></resource></object>
+    <object id="195" type="label" x="66897.35" y="-7198.05" r="0" s="3.763031005859375" class="body">
+      <textfield>
+        <x>-615.45</x>
+        <y>-30.8</y>
+        <text><![CDATA[The principle upon which the UTP cables are classified is the amount of twisting,  when the twisting amount is increased, the interference amount is decreased, . as a final result, the bandwidth the cable support increases]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The principle upon which the UTP cables are classified is the amount of twisting,  when the twisting amount is increased, the interference amount is decreased, . as a final result, the bandwidth the cable support increases</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-222 { align: center; }</annotations>
+        <w>1230.95</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="199" type="image" x="65792.5" y="-6920.85" r="0" s="2.287536144256592">
+      <source w="940" h="76">67526004.png<url>67526004.png</url>
+      </source>
+    <resource><id>
+        67526004
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/1/c/da541f198bc1288282e197bc93d6703d210c6.png</url></resource></object>
+    <object id="200" type="label" x="65676.85" y="-6692.6" r="0" s="4.711556911468506" class="body">
+      <textfield>
+        <x>-80.9</x>
+        <y>-16.4</y>
+        <text><![CDATA[Category 3 UTP]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Category 3 UTP</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="201" type="label" x="68157.35" y="-6692.65" r="0" s="4.711556911468506" class="body">
+      <textfield>
+        <x>-81</x>
+        <y>-16.4</y>
+        <text><![CDATA[Category 5 UTP]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Category 5 UTP</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="203" type="label" x="72539.65" y="-8893.35" r="0" s="4.711556911468506" class="body">
+      <textfield>
+        <x>-337.5</x>
+        <y>-30.8</y>
+        <text><![CDATA[STP is similar to UTP, but it has an outer layer to protect the cable from the surrounding noise, so it carries more bandwidth]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">STP is similar to UTP, but it has an outer layer to protect the cable from the surrounding noise, so it carries more bandwidth</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-126 { align: center; }</annotations>
+        <w>675.05</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="209" type="image" x="65026.75" y="-4971.3" r="0" s="8.274334907531738">
+      <source w="194" h="179">67527615.png<url>67527615.png</url>
+      </source>
+    <resource><id>
+        67527615
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/6/1/dc1da3f0b940d251bf9a84823cc94b5fcd04d.png</url></resource></object>
+    <object id="217" type="button" x="66789.55" y="-2191.6" r="0" s="4.138622760772705" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1261.0576271186442</w>
+        <h>576.15</h>
+      </size>
+    </object>
+    <object id="214" type="image" x="67618.85" y="-2281.85" r="0" s="5.3199310302734375">
+      <source w="599" h="375">67528269.png<url>67528269.png</url>
+      </source>
+    <resource><id>
+        67528269
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/0/d/6c03e45a763f8f66dcbe4ae611db1bb9942a9.png</url></resource></object>
+    <object id="216" type="image" x="65000.9" y="-2380.05" r="0" s="8.933174133300781">
+      <source w="182" h="149">67528268.png<url>67528268.png</url>
+      </source>
+    <resource><id>
+        67528268
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/2/71dee6f5e211ef2a6fde21c7e25d752b280f4.png</url></resource></object>
+    <object id="219" type="image" x="61390.15" y="-7670.7" r="0" s="3.883986473083496">
+      <source w="598" h="417">67528822.png<url>67528822.png</url>
+      </source>
+    <resource><id>
+        67528822
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/d/d/deaf072d7a558f34d5bd81d43551d56b45664.png</url></resource></object>
+    <object id="222" type="image" x="77400.9" y="-7973.65" r="0" s="4.829885959625244">
+      <source w="701" h="423">67529196.png<url>67529196.png</url>
+      </source>
+    <resource><id>
+        67529196
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/7/3d0c9789de2420c5c654073bcc4269d6162e2.png</url></resource></object>
+    <object id="233" type="image" x="83284.3" y="-13256.55" r="0" s="4.816147327423096">
+      <source w="703" h="374">67530485.png<url>67530485.png</url>
+      </source>
+    <resource><id>
+        67530485
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/f/c548bd69f4544ac747e935032264ed609e753.png</url></resource></object>
+    <object id="229" type="image" x="83284.1" y="-6726.05" r="0" s="4.823007583618164">
+      <source w="702" h="373">67530468.png<url>67530468.png</url>
+      </source>
+    <resource><id>
+        67530468
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/f/9/0bcdc5caebecbbb56fcfda094240ea7e1685e.png</url></resource></object>
+    <object id="231" type="image" x="83284.1" y="-9980.55" r="0" s="4.836787223815918">
+      <source w="700" h="378">67530471.png<url>67530471.png</url>
+      </source>
+    <resource><id>
+        67530471
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/a/d/cafe1b88e27f83a2b7e3d3464f9b27ad95a10.png</url></resource></object>
+    <object id="232" type="image" x="83213.95" y="-3362.5" r="0" s="4.795680046081543">
+      <source w="706" h="370">67530482.png<url>67530482.png</url>
+      </source>
+    <resource><id>
+        67530482
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/4/e/10a4e1b05772733af5984e9caf56d84bf9653.png</url></resource></object>
+    <object id="234" type="image" x="83285.3" y="-16800.05" r="0" s="4.782133102416992">
+      <source w="708" h="396">67530487.png<url>67530487.png</url>
+      </source>
+    <resource><id>
+        67530487
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/3/0/9c16e032a8ec9b90d2706424f024c6a276894.png</url></resource></object>
+    <object id="230" type="image" x="91236.6" y="-6974.2" r="0" s="3.9006335735321045">
+      <source w="868" h="671">67530469.png<url>67530469.png</url>
+      </source>
+    <resource><id>
+        67530469
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/c/76a49cf744e9fcce62fb6253e18f36806931c.png</url></resource></object>
+    <object id="235" type="shape" x="2913.85" y="-15766.65" r="90" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="236" type="shape" x="2940.25" y="-11534.45" r="90" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="237" type="shape" x="6818.7" y="-9483.3" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-47.275 0</sp>
+        <ep>47.275 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="238" type="shape" x="11888.65" y="-9450.05" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-36.63495598468763 0</sp>
+        <ep>36.63495598468763 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="239" type="shape" x="22156.45" y="-9630.8" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-95.80684017855928 0</sp>
+        <ep>95.80684017855928 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="240" type="shape" x="31254.4" y="-9622.15" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-49.475 0</sp>
+        <ep>49.475 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="241" type="shape" x="36298.15" y="-9820.45" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="242" type="shape" x="41894" y="-9853.25" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-54.87406605127781 0</sp>
+        <ep>54.87406605127781 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="243" type="shape" x="46886.3" y="-13546.8" r="-50.98269880645701" s="20.509131321906796" class="line3">
+      <geom type="arrow">
+        <sp>-137.04123923111612 0</sp>
+        <ep>137.04123923111612 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="244" type="shape" x="47484.9" y="-11814.85" r="-38.3817723924002" s="20.509130565054082" class="line3">
+      <geom type="arrow">
+        <sp>-45.86096515556558 0</sp>
+        <ep>45.86096515556558 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="245" type="shape" x="48354.6" y="-9644.2" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="246" type="shape" x="47586.1" y="-7390.05" r="33.06308259340531" s="20.509132334027896" class="line3">
+      <geom type="arrow">
+        <sp>-55.126632628884565 0</sp>
+        <ep>55.126632628884565 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="247" type="shape" x="46771.2" y="-6221.95" r="44.992340016589104" s="20.509131410787976" class="line3">
+      <geom type="arrow">
+        <sp>-132.21129159417512 0</sp>
+        <ep>132.21129159417512 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="248" type="shape" x="52476.6" y="-15631.6" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="249" type="shape" x="53334.6" y="-12596.05" r="0" s="20.50912094116211" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="250" type="shape" x="63633.05" y="-10456.95" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="251" type="shape" x="63510.55" y="-8174.4" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="253" type="shape" x="63374.35" y="-5970.55" r="38.69764216146434" s="20.509131267523014" class="line3">
+      <geom type="arrow">
+        <sp>-41.386055924671055 0</sp>
+        <ep>41.386055924671055 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="254" type="shape" x="62803.55" y="-4096.5" r="62.30583158640169" s="20.509131014330688" class="line3">
+      <geom type="arrow">
+        <sp>-101.55956688072276 0</sp>
+        <ep>101.55956688072276 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="255" type="shape" x="69971" y="-8121.4" r="0" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="256" type="shape" x="72676.8" y="-4489.8" r="-39.22472487440727" s="20.509121452777705" class="line3">
+      <geom type="arrow">
+        <sp>-171.3199745340879 0</sp>
+        <ep>171.3199745340879 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="257" type="shape" x="79159.8" y="-13079.45" r="-58.23645387894691" s="41.01826220905853" class="line3">
+      <geom type="arrow">
+        <sp>-99.82618957468024 0</sp>
+        <ep>99.82618957468024 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="258" type="shape" x="83381.95" y="-14839.15" r="90" s="20.509132385253906" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="259" type="shape" x="83397.4" y="-11510" r="90" s="20.50912094116211" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="260" type="shape" x="83417.05" y="-8030.55" r="90" s="20.50912094116211" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="261" type="shape" x="83273.05" y="-4804.4" r="90" s="20.50912094116211" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="262" type="shape" x="87169.85" y="-5174.75" r="-42.17860536748792" s="20.509133299308232" class="line3">
+      <geom type="arrow">
+        <sp>-130.72572910487057 0</sp>
+        <ep>130.72572910487057 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="2_3772873" type="image" x="9698.4" y="18361.25" r="0" s="6.954230785369873">
+      <source w="535" h="346">67581083.PNG<url>67581083.PNG</url>
+      </source>
+    <resource><id>
+        67581083
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/7/d9cd28731aea4e1ce82673bfe15c6ebb25ac3.PNG</url></resource></object>
+    <object id="16_3772873" type="button" x="16484.45" y="18750.75" r="0" s="6.466028690338135" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1205.7692307692307</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="7_3772873" type="image" x="18907.65" y="19038.15" r="0" s="8.151324272155762">
+      <source w="251" h="263">67581489.PNG<url>67581489.PNG</url>
+      </source>
+    <resource><id>
+        67581489
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/5/3/ea00a6ae41e1506b7686449c9e0f4ef36b1ce.PNG</url></resource></object>
+    <object id="3_3772873" type="label" x="16455.3" y="17478" r="0" s="12.993820190429688" class="strong">
+      <textfield>
+        <x>-190.65</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 1: Introduction to OSI Model]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 1: Introduction to OSI Model</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-35 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="4_3772873" type="label" x="16455.9" y="17858.7" r="0" s="7.075540542602539" class="body">
+      <textfield>
+        <x>-183.5</x>
+        <y>-16.4</y>
+        <text><![CDATA[OSI: Open Systems Interconnection]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">OSI: Open Systems Interconnection</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-33 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5_3772873" type="label" x="15362.75" y="19038.25" r="0" s="7.865800857543945" class="body">
+      <textfield>
+        <x>-311.35</x>
+        <y>-131.6</y>
+        <text><![CDATA[OSI model is the primary architectural model for networks. 
+It describes how data and network information are communicated from an application on one computer, through the network media, to an application on another computer.
+The model was defined by the International Organization for Standardization (ISO)
+The OSI reference model breaks this approach into layers]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">OSI model is the primary architectural model for networks.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It describes how data and network information are communicated from an application on one computer, through the network media, to an application on another computer.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The model was defined by the International Organization for Standardization (ISO)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The OSI reference model breaks this approach into layers</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-60 { bullet: true; }
+r0-60 { align: center; }
+r60-226 { bullet: true; }
+r60-226 { align: center; }
+r226-308 { bullet: true; }
+r226-308 { align: center; }
+r308-364 { bullet: true; }
+r308-364 { align: center; }</annotations>
+        <w>622.7</w>
+        <h>263.2</h>
+      </textfield>
+    </object>
+    <object id="17_3772873" type="button" x="26263.1" y="18713.45" r="0" s="6.7147216796875" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1227.7777777777778</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11_3772873" type="image" x="29057.05" y="19038.6" r="0" s="7.897103309631348">
+      <source w="251" h="263">67582312.PNG<url>67582312.PNG</url>
+      </source>
+    <resource><id>
+        67582312
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/8/0/57be80e83c53425d1dcc6bf8c2166fc2b9ff6.PNG</url></resource></object>
+    <object id="18_3772873" type="button" x="36209.65" y="18713.45" r="0" s="5.968632221221924" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>875</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="15_3772873" type="image" x="36054.9" y="19724.85" r="0" s="4.759774684906006">
+      <source w="331" h="263">67582525.PNG<url>67582525.PNG</url>
+      </source>
+    <resource><id>
+        67582525
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/2/0/0fc43ef375d9da7c0ac80469f0b53360c93aa.PNG</url></resource></object>
+    <object id="3_4590935" type="button" x="43710.05" y="18365.6" r="0" s="4.131974697113037" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1372.375690607735</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_4590935" type="image" x="41917.35" y="18632.35" r="0" s="2.7675702571868896">
+      <source w="648" h="502">68643559.png<url>68643559.png</url>
+      </source>
+    <resource><id>
+        68643559
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/7/9/2a2e6ccd4363f67fa870e72b0cb267a617dca.png</url></resource></object>
+    <object id="8_3772873" type="label" x="26836.3" y="17402.45" r="0" s="12.993820190429688" class="strong">
+      <textfield>
+        <x>-164.7</x>
+        <y>-15.25</y>
+        <text><![CDATA[Advantages of Reference Model]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Advantages of Reference Model</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-29 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="9_3772873" type="label" x="25118" y="19038.3" r="0" s="7.075540542602539" class="body">
+      <textfield>
+        <x>-389.7</x>
+        <y>-160.4</y>
+        <text><![CDATA[It divides the network communication process into smaller and simpler components, thus aiding component development, design, and troubleshooting.
+It allows multiple-vendor development through standardization of network components.
+It encourages industry standardization by defining what functions occur at each layer of the model.
+It allows various types of network hardware and software to communicate.
+It prevents changes in one layer from affecting other layers, so it does not hamper development.]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It divides the network communication process into smaller and simpler components, thus aiding component development, design, and troubleshooting.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It allows multiple-vendor development through standardization of network components.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It encourages industry standardization by defining what functions occur at each layer of the model.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It allows various types of network hardware and software to communicate.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It prevents changes in one layer from affecting other layers, so it does not hamper development.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-146 { bullet: true; }
+r0-146 { align: center; }
+r146-231 { bullet: true; }
+r146-231 { align: center; }
+r231-331 { bullet: true; }
+r231-331 { align: center; }
+r331-404 { bullet: true; }
+r331-404 { align: center; }
+r404-500 { bullet: true; }
+r404-500 { align: center; }</annotations>
+        <w>779.4</w>
+        <h>320.8</h>
+      </textfield>
+    </object>
+    <object id="8_4590935" type="button" x="51148.3" y="18224.95" r="0" s="2.575654983520508" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1744.8979591836735</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="6_4590935" type="image" x="49560.55" y="18600.05" r="0" s="1.245997667312622">
+      <source w="858" h="534">68648905.png<url>68648905.png</url>
+      </source>
+    <resource><id>
+        68648905
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/f/e296e487ae03e30d3806379d6cc7cd9be2cf1.png</url></resource></object>
+    <object id="12_3772873" type="label" x="36372.35" y="17482.05" r="0" s="12.993820190429688" class="strong">
+      <textfield>
+        <x>-146.75</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 2: Application Layer]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 2: Application Layer</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-27 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_3772873" type="label" x="36208.3" y="18320.4" r="0" s="7.075540542602539" class="body">
+      <textfield>
+        <x>-333.7</x>
+        <y>-74</y>
+        <text><![CDATA[Provides a means for the user to access information on the network through an application. 
+This layer is the main interface for the user(s) to interact with the application and therefore the network.
+Displays received  information and sends data to lower layers.]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Provides a means for the user to access information on the network through an application.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">This layer is the main interface for the user(s) to interact with the application and therefore the network.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Displays received  information and sends data to lower layers.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-92 { bullet: true; }
+r0-92 { align: center; }
+r92-201 { bullet: true; }
+r92-201 { align: center; }
+r201-263 { bullet: true; }
+r201-263 { align: center; }</annotations>
+        <w>667.45</w>
+        <h>148</h>
+      </textfield>
+    </object>
+    <object id="19_3772873" type="label" x="43958.15" y="17389.35" r="0" s="12.993820190429688" class="strong">
+      <textfield>
+        <x>-151.65</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 3: Presentation Layer]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 3: Presentation Layer</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-28 { align: left; }</annotations>
+        <w>303.35</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="2_4590935" type="label" x="44489.55" y="18632.7" r="0" s="6.114737033843994" class="body">
+      <textfield>
+        <x>-309.15</x>
+        <y>-131.6</y>
+        <text><![CDATA[The presentation layer is responsible for the delivery and formatting of information to the application layer for further processing or display. 
+It relieves the application layer of concern regarding syntactical differences in data representation within the end-user systems. 
+An example of a presentation service would be the conversion of an EBCDIC-coded text file to an ASCII-coded file. 
+]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The presentation layer is responsible for the delivery and formatting of information to the application layer for further processing or display.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It relieves the application layer of concern regarding syntactical differences in data representation within the end-user systems.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">An example of a presentation service would be the conversion of an EBCDIC-coded text file to an ASCII-coded file.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-146 { bullet: true; }
+r0-146 { align: center; }
+r146-278 { bullet: true; }
+r146-278 { align: center; }
+r278-393 { bullet: true; }
+r278-393 { align: center; }</annotations>
+        <w>618.35</w>
+        <h>263.2</h>
+      </textfield>
+    </object>
+    <object id="14_4590935" type="button" x="57745.15" y="18224.9" r="0" s="3.5173180103302" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1409.1743119266057</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="12_4590935" type="image" x="56331.7" y="18397.25" r="0" s="1.9263160228729248">
+      <source w="832" h="539">68653139.png<url>68653139.png</url>
+      </source>
+    <resource><id>
+        68653139
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/1/7/dc4b2fe9c73b6b223a898eccc38006750c732.png</url></resource></object>
+    <object id="20_4590935" type="button" x="63661.9" y="18086.6" r="0" s="4.2353034019470215" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1000</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="17_4590935" type="image" x="62506.4" y="17737" r="0" s="2.749048948287964">
+      <source w="583" h="426">68660126.png<url>68660126.png</url>
+      </source>
+    <resource><id>
+        68660126
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/c/faace1b8b4bc18f2fe824b8c9cba451b2133d.png</url></resource></object>
+    <object id="4_4590935" type="label" x="51035.5" y="17690.05" r="0" s="12.993820190429688" class="strong">
+      <textfield>
+        <x>-151.65</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 4: Session Layer]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 4: Session Layer</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-23 { align: center; }</annotations>
+        <w>303.35</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="7_4590935" type="label" x="51725.45" y="18600.25" r="0" s="5.00787878036499" class="body">
+      <textfield>
+        <x>-320.95</x>
+        <y>-45.2</y>
+        <text><![CDATA[The Session layer controls the sessions between computers. 
+It establishes, manages and terminates the connections between the local and remote application. 
+]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The Session layer controls the sessions between computers.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It establishes, manages and terminates the connections between the local and remote application.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-60 { bullet: true; }
+r0-60 { align: center; }
+r60-158 { bullet: true; }
+r60-158 { align: center; }</annotations>
+        <w>641.95</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="9_4590935" type="label" x="57748.05" y="17604.3" r="0" s="12.993820190429688" class="strong">
+      <textfield>
+        <x>-151.65</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 5: Transport Layer]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 5: Transport Layer</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-25 { align: center; }</annotations>
+        <w>303.35</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="13_4590935" type="label" x="58539" y="18396.25" r="0" s="5.00787878036499" class="body">
+      <textfield>
+        <x>-285.8</x>
+        <y>-74</y>
+        <text><![CDATA[Till now, there is Session openning between the Sender and the Receiver
+But if the receiver is Openning more than one application, How the Sender direct the Data to the right Applcation ?]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Till now, there is Session openning between the Sender and the Receiver</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">But if the receiver is Openning more than one application, How the Sender direct the Data to the right Applcation ?</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-72 { bullet: true; }
+r0-72 { align: center; }
+r72-187 { bullet: true; }
+r72-187 { align: center; }</annotations>
+        <w>571.6</w>
+        <h>148</h>
+      </textfield>
+    </object>
+    <object id="18_4590935" type="image" x="64635.25" y="17737.95" r="0" s="2.564314365386963">
+      <source w="625" h="327">68660127.png<url>68660127.png</url>
+      </source>
+    <resource><id>
+        68660127
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/e/a/942433db011389d277513ed7bd977b919bffd.png</url></resource></object>
+    <object id="5_5433892" type="button" x="69386.5" y="18086.55" r="0" s="4.154626369476318" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>955.4851941747576</w>
+        <h>734.075</h>
+      </size>
+    </object>
+    <object id="3_5433892" type="image" x="68241.9" y="18073.05" r="0" s="3.2012951374053955">
+      <source w="447" h="373">68674638.png<url>68674638.png</url>
+      </source>
+    <resource><id>
+        68674638
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/f/8eeea1ab4097e6e06886322bad82260db041d.png</url></resource></object>
+    <object id="9_5433892" type="image" x="74809.8" y="18073.25" r="0" s="3.3349804878234863">
+      <source w="841" h="497">68684863.png<url>68684863.png</url>
+      </source>
+    <resource><id>
+        68684863
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/0/d/49e1176bdde0dd509bb6f293222f4c5e8eefd.png</url></resource></object>
+    <object id="19_4590935" type="label" x="63618.3" y="18691.75" r="0" s="6.114737033843994" class="body">
+      <textfield>
+        <x>-294.2</x>
+        <y>-59.6</y>
+        <text><![CDATA[Organize data into segments
+Provide transparent transfer of data between hosts. 
+It is usually responsible for end-to-end error recovery and flow control, and ensuring complete data transfer. ]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Organize data into segments</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Provide transparent transfer of data between hosts.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It is usually responsible for end-to-end error recovery and flow control, and ensuring complete data transfer.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-28 { bullet: true; }
+r0-28 { align: center; }
+r28-81 { bullet: true; }
+r28-81 { align: center; }
+r81-192 { bullet: true; }
+r81-192 { align: center; }</annotations>
+        <w>588.4</w>
+        <h>119.2</h>
+      </textfield>
+    </object>
+    <object id="0_5433892" type="label" x="69427.55" y="17096.1" r="0" s="12.993820190429688" class="strong">
+      <textfield>
+        <x>-151.65</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 6: Network Layer]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 6: Network Layer</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-23 { align: center; }</annotations>
+        <w>303.35</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="4_5433892" type="image" x="70209.8" y="18073.05" r="0" s="3.5902695655822754">
+      <source w="558" h="312">68674642.png<url>68674642.png</url>
+      </source>
+    <resource><id>
+        68674642
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/7/1/48c389630dbaab7f11d32f3e310fdd6200416.png</url></resource></object>
+    <object id="6_5433892" type="label" x="69350.5" y="19149.1" r="0" s="5.00787878036499" class="body">
+      <textfield>
+        <x>-331.65</x>
+        <y>-59.6</y>
+        <text><![CDATA[Data in Network Layer is converted into a Packet, which is: Segment + Header
+Network Layer has a Logical Address (IP Address)
+Header carries Source IP Address, and Destination IP Address 
+]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Data in Network Layer is converted into a Packet, which is: Segment + Header</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Network Layer has a Logical Address (IP Address)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Header carries Source IP Address, and Destination IP Address</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-77 { bullet: true; }
+r0-77 { align: left; }
+r77-126 { bullet: true; }
+r77-126 { align: left; }
+r126-188 { bullet: true; }
+r126-188 { align: left; }</annotations>
+        <w>663.3</w>
+        <h>119.2</h>
+      </textfield>
+    </object>
+    <object id="11_5433892" type="image" x="78869.15" y="18072.05" r="0" s="2.482489824295044">
+      <source w="807" h="511">68685723.png<url>68685723.png</url>
+      </source>
+    <resource><id>
+        68685723
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/e/c/3b04d81023b6ac8a0132317f1981a42aad463.png</url></resource></object>
+    <object id="14_5433892" type="image" x="82167.2" y="17924.4" r="0" s="2.1262686252593994">
+      <source w="673" h="515">68686930.png<url>68686930.png</url>
+      </source>
+    <resource><id>
+        68686930
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/f/f/622a3dfae06b5cb7938d1c564f6b4f15ddd36.png</url></resource></object>
+    <object id="15_5433892" type="image" x="85096.15" y="17925.65" r="0" s="1.6894676685333252">
+      <source w="847" h="519">68686941.png<url>68686941.png</url>
+      </source>
+    <resource><id>
+        68686941
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/7/9/88385d828f49420813e435129da0dc5cd910f.png</url></resource></object>
+    <object id="1_5021930" type="image" x="87076.95" y="17924.4" r="0" s="1.6885920763015747">
+      <source w="836" h="445">68774306.png<url>68774306.png</url>
+      </source>
+    <resource><id>
+        68774306
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/7/4/0c84b1f72bd5537d7178c2ef30215d82bfc8a.png</url></resource></object>
+    <object id="3_5021930" type="image" x="89393.35" y="17925.55" r="0" s="1.6987521648406982">
+      <source w="831" h="515">68774739.png<url>68774739.png</url>
+      </source>
+    <resource><id>
+        68774739
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/d/a/86084427284f87c1c96d0575387960bca8bb7.png</url></resource></object>
+    <object id="5_5021930" type="image" x="91457.6" y="17924.85" r="0" s="1.5925287008285522">
+      <source w="870" h="511">68775740.png<url>68775740.png</url>
+      </source>
+    <resource><id>
+        68775740
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/4/5/6c704f46963abd8e192de2926af31f8716942.png</url></resource></object>
+    <object id="7_5021930" type="image" x="93395.9" y="17924.15" r="0" s="1.3585681915283203">
+      <source w="867" h="509">68776417.png<url>68776417.png</url>
+      </source>
+    <resource><id>
+        68776417
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/e/6/fb4c3aef58d798b1401faa3ad7cc76fbaad29.png</url></resource></object>
+    <object id="12_5021930" type="button" x="97052.7" y="17935.85" r="0" s="3.628715991973877" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>930.225</w>
+        <h>403.94999999999993</h>
+      </size>
+    </object>
+    <object id="11_5021930" type="image" x="96368.75" y="18082.55" r="0" s="1.9578038454055786">
+      <source w="843" h="272">68778880.png<url>68778880.png</url>
+      </source>
+    <resource><id>
+        68778880
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/8/3/117d509eac4018b786e843aa99f392194be95.png</url></resource></object>
+    <object id="14_5021930" type="image" x="101087.2" y="17942.85" r="0" s="1.9741979837417603">
+      <source w="836" h="367">68779691.png<url>68779691.png</url>
+      </source>
+    <resource><id>
+        68779691
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/9/f/a1a5be5a5767cd94df2570c3243d3aa4e5a3a.png</url></resource></object>
+    <object id="8_5021930" type="label" x="97235.45" y="17499.7" r="0" s="9.281299591064453" class="strong">
+      <textfield>
+        <x>-151.65</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 7: Data Link Layer]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 7: Data Link Layer</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-25 { align: center; }</annotations>
+        <w>303.35</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="9_5021930" type="label" x="97881.95" y="18053.2" r="0" s="3.564317226409912" class="body">
+      <textfield>
+        <x>-196.1</x>
+        <y>-88.4</y>
+        <text><![CDATA[Responsible for organizing data into Frames, by adding Header.
+Header holds Source Mac Address, and Destination Mac Address.
+Trailer holds the result of CRC: Cycle Redundancy Check.]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Responsible for organizing data into Frames, by adding Header.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Header holds Source Mac Address, and Destination Mac Address.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Trailer holds the result of CRC: Cycle Redundancy Check.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-63 { bullet: true; }
+r0-63 { align: center; }
+r63-125 { bullet: true; }
+r63-125 { align: center; }
+r125-181 { bullet: true; }
+r125-181 { align: center; }</annotations>
+        <w>392.2</w>
+        <h>176.8</h>
+      </textfield>
+    </object>
+    <object id="17_5021930" type="image" x="105169.4" y="17942.55" r="0" s="0.8458546996116638">
+      <source w="823" h="496">68782689.png<url>68782689.png</url>
+      </source>
+    <resource><id>
+        68782689
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/c/6/fea996ee538869a9ee2dadd57ef450eca99ad.png</url></resource></object>
+    <object id="19_5021930" type="image" x="106304" y="17942.55" r="0" s="0.8573131561279297">
+      <source w="580" h="515">68783434.png<url>68783434.png</url>
+      </source>
+    <resource><id>
+        68783434
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/4/e/7a0debbbdb543a0ea7e72ec7c0aa74010f585.png</url></resource></object>
+    <object id="15_5021930" type="label" x="103408.85" y="17942.55" r="0" s="3.564317226409912" class="body">
+      <textfield>
+        <x>-246.15</x>
+        <y>-45.2</y>
+        <text><![CDATA[Switch is a network device that lets different noeds to communicate with each other without slowing them down. ]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Switch is a network device that lets different noeds to communicate with each other without slowing them down.</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-111 { align: center; }</annotations>
+        <w>492.3</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="2_239105" type="button" x="107303.95" y="17989.45" r="0" s="0.4749951958656311" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1639.6551724137933</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="6_239105" type="image" x="108703.55" y="17481.45" r="0" s="0.33576181530952454">
+      <source w="848" h="523">69367264.png<url>69367264.png</url>
+      </source>
+    <resource><id>
+        69367264
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/c/3/6c11facb1ba5d70da0ef1ded749822cdbeaa3.png</url></resource></object>
+    <object id="8_239105" type="image" x="108703.5" y="17755.15" r="0" s="0.3353680372238159">
+      <source w="849" h="523">69367729.png<url>69367729.png</url>
+      </source>
+    <resource><id>
+        69367729
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/5/b/c00715afe13f4cdd90df616443300c59a4944.png</url></resource></object>
+    <object id="10_239105" type="image" x="108703.45" y="18010.65" r="0" s="0.3373514413833618">
+      <source w="844" h="524">69368164.png<url>69368164.png</url>
+      </source>
+    <resource><id>
+        69368164
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/f/1/9f69e6731ac447dcfcbf7a16289076dd4ebbc.png</url></resource></object>
+    <object id="12_239105" type="image" x="108703.55" y="18262.05" r="0" s="0.3385581076145172">
+      <source w="841" h="521">69368589.png<url>69368589.png</url>
+      </source>
+    <resource><id>
+        69368589
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/a/c/4eaabfd5fb64e0f15fdaf3c09b8e0b84d0c10.png</url></resource></object>
+    <object id="14_239105" type="image" x="108703.45" y="18525.4" r="0" s="0.33895909786224365">
+      <source w="840" h="520">69368970.png<url>69368970.png</url>
+      </source>
+    <resource><id>
+        69368970
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/3/5/424a94d6350b3d12f966e5d5d750537689044.png</url></resource></object>
+    <object id="16_239105" type="image" x="109413.35" y="18029.5" r="0" s="0.3821825683116913">
+      <source w="745" h="469">69369326.png<url>69369326.png</url>
+      </source>
+    <resource><id>
+        69369326
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/7/6/de766ecca8d0ec25a9a3af765e5c1d3b03653.png</url></resource></object>
+    <object id="0_239105" type="label" x="107319.95" y="17900.55" r="0" s="2.5987632274627686" class="strong">
+      <textfield>
+        <x>-129.5</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 8: Physical Layer]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 8: Physical Layer</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-24 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="4_239105" type="image" x="108219.55" y="17991" r="0" s="0.48200327157974243">
+      <source w="827" h="519">69366820.png<url>69366820.png</url>
+      </source>
+    <resource><id>
+        69366820
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/4/c/bfdfaef9262b876bf9271c847f95ca9b084ac.png</url></resource></object>
+    <object id="1_239105" type="label" x="107288.4" y="18023" r="0" s="0.9896926879882813" class="body">
+      <textfield>
+        <x>-381.6</x>
+        <y>-59.6</y>
+        <text><![CDATA[Defines all the Electrical and Physical Specifications for Devices.
+The Most basic Network Layer, providing only the means of Transmitting raw bits through any types of Cables
+Network device in Physical layer is: Hub, which is NOT Smart enough!]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Defines all the Electrical and Physical Specifications for Devices.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">The Most basic Network Layer, providing only the means of Transmitting raw bits through any types of Cables</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Network device in Physical layer is: Hub, which is NOT Smart enough!</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-68 { bullet: true; }
+r0-68 { align: center; }
+r68-176 { bullet: true; }
+r68-176 { align: center; }
+r176-244 { bullet: true; }
+r176-244 { align: center; }</annotations>
+        <w>763.2</w>
+        <h>119.2</h>
+      </textfield>
+    </object>
+    <object id="0_249438" type="button" x="-4792.75" y="-9367.95" r="0" s="4.766091346740723" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1044.8979591836735</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="17_239105" type="label" x="-4753.8" y="-10447.9" r="0" s="10.395052909851074" class="strong">
+      <textfield>
+        <x>-230.45</x>
+        <y>-15.25</y>
+        <text><![CDATA[Chapter 3: Network Protocols and Devices]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Chapter 3: Network Protocols and Devices</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-40 { align: center; }</annotations>
+        <w>460.9</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="19_239105" type="image" x="-4753.85" y="-9143.1" r="0" s="4.6076202392578125">
+      <source w="685" h="446">69372058.png<url>69372058.png</url>
+      </source>
+    <resource><id>
+        69372058
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/9/e/2dde037f00537566708ac22fd4a6e7b9c09c3.png</url></resource></object>
+    <object id="3_249438" type="button" x="-12946.35" y="-9367.9" r="0" s="3.404343843460083" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1759.9999999999998</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_438219" type="image" x="-19852.7" y="-9366.95" r="0" s="4.760516166687012">
+      <source w="663" h="355">69391279.png<url>69391279.png</url>
+      </source>
+    <resource><id>
+        69391279
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/d/a/f4f1c632f7d5b6e250b578f30cfc9d3def5ee.png</url></resource></object>
+    <object id="1_249438" type="label" x="-12966.75" y="-9932.25" r="0" s="10.395052909851074" class="strong">
+      <textfield>
+        <x>-264.05</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 1: Network Communication and Protocols]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 1: Network Communication and Protocols</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-45 { align: center; }</annotations>
+        <w>528.1</w>
+        <h>30.5</h>
+      </textfield>
+    </object>
+    <object id="2_249438" type="label" x="-13003.75" y="-9074.95" r="0" s="7.3590240478515625" class="body">
+      <textfield>
+        <x>-397.45</x>
+        <y>-74</y>
+        <text><![CDATA[Protocols are needed for Computer Networks to Communicate efficiently.
+They are set of rules that enable data to fall from one NIC to another.
+Protocols control the messages origination, messages end, and messages quantity in the network.
+There are Four Major Networking Protocols.]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Protocols are needed for Computer Networks to Communicate efficiently.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">They are set of rules that enable data to fall from one NIC to another.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Protocols control the messages origination, messages end, and messages quantity in the network.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">There are Four Major Networking Protocols.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-71 { bullet: true; }
+r0-71 { align: center; }
+r71-143 { bullet: true; }
+r71-143 { align: center; }
+r143-239 { bullet: true; }
+r143-239 { align: center; }
+r239-281 { bullet: true; }
+r239-281 { align: center; }</annotations>
+        <w>794.9</w>
+        <h>148</h>
+      </textfield>
+    </object>
+    <object id="6_439407" type="button" x="-26390.3" y="-8506.75" r="0" s="3.802509307861328" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1568.003846153846</w>
+        <h>921.55</h>
+      </size>
+    </object>
+    <object id="2_439407" type="image" x="-28554.95" y="-7570.75" r="0" s="2.803354263305664">
+      <source w="474" h="432">69392736.png<url>69392736.png</url>
+      </source>
+    <resource><id>
+        69392736
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/d/0/702e1e130defae62de26d01a44ec3f65ec6fd.png</url></resource></object>
+    <object id="15_439407" type="button" x="-34882.3" y="-8326.25" r="0" s="6.593286991119385" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>938.793103448276</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_439407" type="image" x="-36288.7" y="-9264.1" r="0" s="3.5964572429656982">
+      <source w="730" h="406">69395506.png<url>69395506.png</url>
+      </source>
+    <resource><id>
+        69395506
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/a/b/4c68f0b43531b1d977f01805e899511c161b9.png</url></resource></object>
+    <object id="2_438219" type="label" x="-26465.3" y="-9165.7" r="0" s="7.3590240478515625" class="body">
+      <textfield>
+        <x>-408.9</x>
+        <y>-117.2</y>
+        <text><![CDATA[NetBios: Common Protocol that allows Applications in LAN to communicate
+It doesn't Support: Routing Mechanism
+Originally Developed by IBM (for LAN Manager)
+Obtained by Microsoft for Windows NT and LAN Manager
+NetBEUI: NetBIOS Extended User Interface. 
+This is an enhanced version of the NetBIOS protocol used by network operating systems (NOS), such as Microsoft's Windows NT.
+Non-routable ]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">NetBios: Common Protocol that allows Applications in LAN to communicate</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">It doesn't Support: Routing Mechanism</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Originally Developed by IBM (for LAN Manager)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Obtained by Microsoft for Windows NT and LAN Manager</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">NetBEUI: NetBIOS Extended User Interface.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">This is an enhanced version of the NetBIOS protocol used by network operating systems (NOS), such as Microsoft's Windows NT.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Non-routable</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-72 { bullet: true; }
+r0-72 { align: center; }
+r72-110 { bullet: true; }
+r72-110 { align: center; }
+r110-156 { bullet: true; }
+r110-156 { align: center; }
+r156-209 { bullet: true; }
+r156-209 { align: center; }
+r209-252 { bullet: true; }
+r209-252 { align: center; }
+r252-377 { bullet: true; }
+r252-377 { align: center; }
+r377-390 { bullet: true; }
+r377-390 { align: center; }</annotations>
+        <w>817.8</w>
+        <h>234.4</h>
+      </textfield>
+    </object>
+    <object id="3_439407" type="image" x="-26553.5" y="-7571.25" r="0" s="2.3667972087860107">
+      <source w="786" h="423">69392762.png<url>69392762.png</url>
+      </source>
+    <resource><id>
+        69392762
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/8/31a087ab1e74c43cee0be58595439dccdc604.png</url></resource></object>
+    <object id="5_439407" type="image" x="-24407.15" y="-7571.1" r="0" s="2.3190040588378906">
+      <source w="573" h="432">69393091.png<url>69393091.png</url>
+      </source>
+    <resource><id>
+        69393091
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/4/1/981d02d78ed1dc4c70034fc204ceb86e42a99.png</url></resource></object>
+    <object id="10_439407" type="image" x="-33373.2" y="-9264.1" r="0" s="2.7407705783843994">
+      <source w="721" h="483">69396117.png<url>69396117.png</url>
+      </source>
+    <resource><id>
+        69396117
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/f/c/63022ac408bad1b4a67a0ddc827f702eb4f48.png</url></resource></object>
+    <object id="12_439407" type="image" x="-36288.75" y="-7571.15" r="0" s="3.869277238845825">
+      <source w="715" h="473">69396697.png<url>69396697.png</url>
+      </source>
+    <resource><id>
+        69396697
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/6/d/45a7753d9489c82e99c9549fc8fc6913d679c.png</url></resource></object>
+    <object id="14_439407" type="image" x="-33373.2" y="-7572.6" r="0" s="3.3820695877075195">
+      <source w="818" h="372">69397107.png<url>69397107.png</url>
+      </source>
+    <resource><id>
+        69397107
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/f/2/5a6ca8cb6b06254b0120e8ce74de7f045b0f9.png</url></resource></object>
+    <object id="21_439407" type="button" x="-44691.5" y="-8878.5" r="0" s="3.7213573455810547" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1100</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="18_439407" type="image" x="-45741.95" y="-8661" r="0" s="2.228860855102539">
+      <source w="617" h="455">69399059.png<url>69399059.png</url>
+      </source>
+    <resource><id>
+        69399059
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/5/6/16239235a2ce3af16fc11ba7873bba16f4fae.png</url></resource></object>
+    <object id="20_439407" type="image" x="-43874.8" y="-8660.9" r="0" s="2.9126930236816406">
+      <source w="661" h="397">69399284.png<url>69399284.png</url>
+      </source>
+    <resource><id>
+        69399284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/c/d/1835a6704e2f96a59fd6284d9f7b7c3a34e85.png</url></resource></object>
+    <object id="26_439407" type="button" x="-50625.45" y="-8878.65" r="0" s="2.84915828704834" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1531.428571428571</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="24_439407" type="image" x="-51716.4" y="-8945.4" r="0" s="2.9117062091827393">
+      <source w="648" h="487">69400154.png<url>69400154.png</url>
+      </source>
+    <resource><id>
+        69400154
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/8/5/b4b2be886775dd84403519660f25405cfd1a4.png</url></resource></object>
+    <object id="16_439407" type="label" x="-44692.6" y="-9567.2" r="0" s="6.212542533874512" class="body">
+      <textfield>
+        <x>-370.6</x>
+        <y>-30.8</y>
+        <text><![CDATA[Apple Talk: Set of LAN Communication Protocols
+Supports up to 32 Devices]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Apple Talk: Set of LAN Communication Protocols</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Supports up to 32 Devices</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-47 { align: center; }
+r47-72 { align: center; }</annotations>
+        <w>741.25</w>
+        <h>61.6</h>
+      </textfield>
+    </object>
+    <object id="25_439407" type="image" x="-49501.95" y="-8978" r="0" s="3.3453640937805176">
+      <source w="564" h="383">69400193.png<url>69400193.png</url>
+      </source>
+    <resource><id>
+        69400193
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/3/c/2f0b7e5a20437ecf4e55ec45f49ba297f350f.png</url></resource></object>
+    <object id="6_1038905" type="button" x="-57115.5" y="-8879.2" r="0" s="4.897890090942383" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>833.1428571428571</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_1038905" type="image" x="-57970.4" y="-9172.3" r="0" s="2.6710402965545654">
+      <source w="750" h="393">70224711.png<url>70224711.png</url>
+      </source>
+    <resource><id>
+        70224711
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/9/2/a7d80fa473d1f879ac153372cfbf0cef34216.png</url></resource></object>
+    <object id="3_1038905" type="image" x="-56022.15" y="-9223.4" r="0" s="1.9829847812652588">
+      <source w="701" h="519">70224792.png<url>70224792.png</url>
+      </source>
+    <resource><id>
+        70224792
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/1/3/dd014ebed3be61810d7a1ca32975495e14f6a.png</url></resource></object>
+    <object id="5_1038905" type="image" x="-57064.25" y="-8052.85" r="0" s="4.258430004119873">
+      <source w="457" h="259">70224852.png<url>70224852.png</url>
+      </source>
+    <resource><id>
+        70224852
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/3/d/1ade74d24720e49244a5062d275d8b2959acb.png</url></resource></object>
+    <object id="8_1038905" type="image" x="-61726.05" y="-9022.75" r="0" s="1.9496108293533325">
+      <source w="713" h="521">70224934.png<url>70224934.png</url>
+      </source>
+    <resource><id>
+        70224934
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/6/3/23040ab8195e363a8aa655e2f6272d988fb55.png</url></resource></object>
+    <object id="10_1038905" type="image" x="-64900.5" y="-9022.65" r="0" s="2.297638416290283">
+      <source w="847" h="505">70224979.png<url>70224979.png</url>
+      </source>
+    <resource><id>
+        70224979
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/0/c/b86fe1116de0b13e5a6716b292bd8d35639d6.png</url></resource></object>
+    <object id="27_439407" type="label" x="-57063.55" y="-9898.9" r="0" s="9.73183536529541" class="strong">
+      <textfield>
+        <x>-173.4</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 2: Protocols in OSI Model]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 2: Protocols in OSI Model</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-32 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="12_1038905" type="image" x="-68258.15" y="-9022.65" r="0" s="2.308410167694092">
+      <source w="735" h="512">70225233.png<url>70225233.png</url>
+      </source>
+    <resource><id>
+        70225233
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/e/b/5d71890952c6b181c5f250cf4adeb3ff3ad7b.png</url></resource></object>
+    <object id="14_1038905" type="image" x="-71083.5" y="-9023.15" r="0" s="1.95470130443573">
+      <source w="620" h="524">70225306.png<url>70225306.png</url>
+      </source>
+    <resource><id>
+        70225306
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/e/5/aade77131be81f7f0c4fdcc15369b3ee6b29e.png</url></resource></object>
+    <object id="16_1038905" type="image" x="-73447" y="-9023.25" r="0" s="1.7718044519424438">
+      <source w="684" h="513">70225502.png<url>70225502.png</url>
+      </source>
+    <resource><id>
+        70225502
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/7/1/f7e1bccc07aca195555fbd21414a6dc446714.png</url></resource></object>
+    <object id="18_1038905" type="image" x="-76030.3" y="-9023.2" r="0" s="1.3749254941940308">
+      <source w="787" h="525">70225774.png<url>70225774.png</url>
+      </source>
+    <resource><id>
+        70225774
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/6/0/9dee254f8017ee7a823e307d82fe804d36f52.png</url></resource></object>
+    <object id="20_1038905" type="image" x="-78723.45" y="-9023.8" r="0" s="1.8207818269729614">
+      <source w="832" h="515">70226125.png<url>70226125.png</url>
+      </source>
+    <resource><id>
+        70226125
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/3/6/4d00250b04489e57c071db41f844f77eb7dcd.png</url></resource></object>
+    <object id="22_1038905" type="image" x="-81586.55" y="-9023.8" r="0" s="1.845180630683899">
+      <source w="821" h="511">70226457.png<url>70226457.png</url>
+      </source>
+    <resource><id>
+        70226457
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/4/1/2824300264aafdf76c71c279152db10bf52b6.png</url></resource></object>
+    <object id="24_1038905" type="image" x="-84318.8" y="-9024.45" r="0" s="1.7885369062423706">
+      <source w="847" h="524">70226756.png<url>70226756.png</url>
+      </source>
+    <resource><id>
+        70226756
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/1/4/731f79443d571ff051f6f3e8973a5ed5e7045.png</url></resource></object>
+    <object id="26_1038905" type="image" x="-87391.05" y="-9024.45" r="0" s="1.7533490657806396">
+      <source w="864" h="537">70227724.png<url>70227724.png</url>
+      </source>
+    <resource><id>
+        70227724
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/5/1/a2d79b54333138388f4abac00178b535e91d6.png</url></resource></object>
+    <object id="28_1038905" type="image" x="-89875" y="-9024.45" r="0" s="1.8633382320404053">
+      <source w="813" h="446">70227938.png<url>70227938.png</url>
+      </source>
+    <resource><id>
+        70227938
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/c/4/50e58a49ea4f7cc954e240952f0d3d6e5db25.png</url></resource></object>
+    <object id="30_1038905" type="image" x="-92594.8" y="-9025.15" r="0" s="2.4349589347839355">
+      <source w="871" h="244">70228342.png<url>70228342.png</url>
+      </source>
+    <resource><id>
+        70228342
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/5/1/0823abd25d57cd133acf563bc7f877aae55bc.png</url></resource></object>
+    <object id="32_1038905" type="image" x="-95730.5" y="-8998.3" r="0" s="1.1459109783172607">
+      <source w="1322" h="822">70229695.png<url>70229695.png</url>
+      </source>
+    <resource><id>
+        70229695
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/2/6/79fadc50a27a191f7ae43ca697b0e734ff645.png</url></resource></object>
+    <object id="34_1038905" type="image" x="-98777.85" y="-8998.3" r="0" s="1.7492989301681519">
+      <source w="866" h="499">70229926.png<url>70229926.png</url>
+      </source>
+    <resource><id>
+        70229926
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/d/7/6bd85b1b718d0ad16200ffa4d59f95da46a99.png</url></resource></object>
+    <object id="36_1038905" type="image" x="-100614.55" y="-8998.85" r="0" s="1.3235036134719849">
+      <source w="505" h="565">70230286.png<url>70230286.png</url>
+      </source>
+    <resource><id>
+        70230286
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/0/32064f6caebc8eefb696aea635f7daa6f47e9.png</url></resource></object>
+    <object id="38_1038905" type="image" x="-102208.15" y="-8999.5" r="0" s="1.2492727041244507">
+      <source w="838" h="460">70230611.png<url>70230611.png</url>
+      </source>
+    <resource><id>
+        70230611
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/a/b/21e38495dda9e3138b88eb37032d6677d9dcf.png</url></resource></object>
+    <object id="40_1038905" type="image" x="-104143.9" y="-9024.8" r="0" s="1.7510703802108765">
+      <source w="837" h="364">70230727.png<url>70230727.png</url>
+      </source>
+    <resource><id>
+        70230727
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/0/3/097c9e922aa8d0d31fc75b47e36fdb056b602.png</url></resource></object>
+    <object id="42_1038905" type="image" x="-106508.4" y="-12294.9" r="0" s="1.7283551692962646">
+      <source w="848" h="521">70230854.png<url>70230854.png</url>
+      </source>
+    <resource><id>
+        70230854
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/0/7/5c372748d482a939fe74043b612584fa9b2af.png</url></resource></object>
+    <object id="44_1038905" type="image" x="-106508.4" y="-11155.3" r="0" s="1.7468981742858887">
+      <source w="839" h="515">70230937.png<url>70230937.png</url>
+      </source>
+    <resource><id>
+        70230937
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/5/a/1847bcae55c2c50afee85bfacc7f90a9e41bf.png</url></resource></object>
+    <object id="46_1038905" type="image" x="-106508.4" y="-10067.6" r="0" s="1.7344937324523926">
+      <source w="845" h="518">70231046.png<url>70231046.png</url>
+      </source>
+    <resource><id>
+        70231046
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/0/3/4677cc87d0d95243b16e3654dbbc6935fbf4f.png</url></resource></object>
+    <object id="48_1038905" type="image" x="-106508.4" y="-8873.65" r="0" s="1.7386072874069214">
+      <source w="843" h="514">70231225.png<url>70231225.png</url>
+      </source>
+    <resource><id>
+        70231225
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/d/4810091afa59737f9f69cda1c58da2bbe9417.png</url></resource></object>
+    <object id="51_1038905" type="image" x="-106508.4" y="-7521.6" r="0" s="1.7427403926849365">
+      <source w="841" h="519">70231332.png<url>70231332.png</url>
+      </source>
+    <resource><id>
+        70231332
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/a/9/07a142d8aa71c08aebbc92a2e97aa6382e65b.png</url></resource></object>
+    <object id="53_1038905" type="image" x="-108822.9" y="-9024.1" r="0" s="2.0132532119750977">
+      <source w="728" h="475">70231431.png<url>70231431.png</url>
+      </source>
+    <resource><id>
+        70231431
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/4/1/5276a08bde406a76c7f67675b1067abdb0687.png</url></resource></object>
+    <object id="1_1269419" type="image" x="-4757" y="3546.05" r="0" s="6.903867721557617">
+      <source w="658" h="451">70590502.png<url>70590502.png</url>
+      </source>
+    <resource><id>
+        70590502
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/6/72afaa62b0c07d6a7664c0444431c9c17c4c0.png</url></resource></object>
+    <object id="6_1269419" type="button" x="-12388.5" y="3594.75" r="0" s="8.606781005859375" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>868.9655172413793</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="5_1269419" type="image" x="-12211.65" y="4650.55" r="0" s="4.8442606925964355">
+      <source w="852" h="502">70591187.png<url>70591187.png</url>
+      </source>
+    <resource><id>
+        70591187
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/8/1/0605877de723c5dd85c7342e1f777be6fff68.png</url></resource></object>
+    <object id="2_1269419" type="label" x="-12573.6" y="1531.85" r="0" s="12.706183433532715" class="strong">
+      <textfield>
+        <x>-262.9</x>
+        <y>-15.25</y>
+        <text><![CDATA[Lesson 1: Collision Domain and Broadcast Domain]]></text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="LiberationSerif-Bold" SIZE="24" COLOR="#288ACC" LETTERSPACING="0" KERNING="0">Lesson 1: Collision Domain and Broadcast Domain</FONT>
+          </P>
+        </htmlText>
+        <annotations>r0-47 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_1269419" type="label" x="-12574.15" y="2528.8" r="0" s="12.706183433532715" class="body">
+      <textfield>
+        <x>-257.1</x>
+        <y>-59.6</y>
+        <text><![CDATA[Collision Domain: Consists of all Devices that can see or involved in a Collision.
+All the stations informed by any collision 
+as in Hub: all Ports are in a Collision Domain]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Collision Domain: Consists of all Devices that can see or involved in a Collision.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">All the stations informed by any collision</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">as in Hub: all Ports are in a Collision Domain</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-83 { bullet: true; }
+r0-83 { align: center; }
+r83-127 { bullet: true; }
+r83-127 { align: center; }
+r127-173 { bullet: true; }
+r127-173 { align: center; }</annotations>
+        <w>514.2</w>
+        <h>119.2</h>
+      </textfield>
+    </object>
+    <object id="10_1269419" type="button" x="-22919.8" y="3638.05" r="0" s="7.0804595947265625" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>891.0179640718562</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_1269419" type="image" x="-22767.15" y="4241" r="0" s="4.760454177856445">
+      <source w="867" h="495">70591823.png<url>70591823.png</url>
+      </source>
+    <resource><id>
+        70591823
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/c/9/fc386c1e7182e8df0e2453846a9d47058796a.png</url></resource></object>
+    <object id="12_1269419" type="image" x="-31666.4" y="3523.55" r="0" s="7.766451358795166">
+      <source w="744" h="439">70592001.png<url>70592001.png</url>
+      </source>
+    <resource><id>
+        70592001
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/e/e/780a41ef9ddcf3375e5f58fee902c1f89adff.png</url></resource></object>
+    <object id="7_1269419" type="label" x="-23091.5" y="2345.65" r="0" s="12.706183433532715" class="body">
+      <textfield>
+        <x>-257.1</x>
+        <y>-45.2</y>
+        <text><![CDATA[Broadcast Domain: it consists of all devices that can see Broadcast.
+Router Separates Broadcast Domains]]></text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Broadcast Domain: it consists of all devices that can see Broadcast.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="CENTER">
+            <LI>
+              <FONT FACE="calluna-regular" SIZE="24" COLOR="#111111" LETTERSPACING="0" KERNING="0">Router Separates Broadcast Domains</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <annotations>r0-69 { bullet: true; }
+r0-69 { align: center; }
+r69-103 { bullet: true; }
+r69-103 { align: center; }</annotations>
+        <w>514.2</w>
+        <h>90.4</h>
+      </textfield>
+    </object>
+    <object id="14_1269419" type="image" x="-38932.35" y="3522.3" r="0" s="5.277890682220459">
+      <source w="782" h="493">70592237.png<url>70592237.png</url>
+      </source>
+    <resource><id>
+        70592237
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/9/9/315c7265f209fb34c0380348104075f8e9d1b.png</url></resource></object>
+    <object id="16_1269419" type="image" x="-45012.75" y="3522.35" r="0" s="4.972668170928955">
+      <source w="830" h="481">70592452.png<url>70592452.png</url>
+      </source>
+    <resource><id>
+        70592452
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/d/e/8de9e3d686806d4134b8d33a4656ce7a7e0de.png</url></resource></object>
+    <object id="18_1269419" type="image" x="-51065.2" y="3587.2" r="0" s="5.887751579284668">
+      <source w="701" h="422">70592790.png<url>70592790.png</url>
+      </source>
+    <resource><id>
+        70592790
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/e/c/df13193f9b51176089824e95bc2fe19344bb6.png</url></resource></object>
+    <object id="20_1269419" type="image" x="-56992.95" y="3561.8" r="0" s="5.488446235656738">
+      <source w="752" h="474">70592933.png<url>70592933.png</url>
+      </source>
+    <resource><id>
+        70592933
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/7/f0eb65398d9740fa34597b14c03559d00b64d.png</url></resource></object>
+    <object id="22_1269419" type="image" x="-62411.85" y="3789.45" r="0" s="3.750736951828003">
+      <source w="786" h="526">70593208.png<url>70593208.png</url>
+      </source>
+    <resource><id>
+        70593208
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/4/a/20d9abbce71fdc4809c553dfefc632257abba.png</url></resource></object>
+    <object id="24_1269419" type="image" x="-68314.15" y="3789.4" r="0" s="5.0891642570495605">
+      <source w="811" h="376">70593435.png<url>70593435.png</url>
+      </source>
+    <resource><id>
+        70593435
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/6/9/676d87580e4424e4d6b5eb2c8b80636e05c22.png</url></resource></object>
+    <object id="26_1269419" type="image" x="-74038.4" y="3737.35" r="0" s="4.966681480407715">
+      <source w="831" h="508">70593720.png<url>70593720.png</url>
+      </source>
+    <resource><id>
+        70593720
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/b/2/0a28089dd0e5abfeb50fb14baad1f243af402.png</url></resource></object>
+    <object id="28_1269419" type="image" x="-79559.1" y="-1985.65" r="0" s="4.8786163330078125">
+      <source w="846" h="474">70593863.png<url>70593863.png</url>
+      </source>
+    <resource><id>
+        70593863
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/a/bbb818729f1c7e7ab18bf971bc534a2803b22.png</url></resource></object>
+    <object id="30_1269419" type="image" x="-79559.1" y="1010" r="0" s="4.901792526245117">
+      <source w="842" h="519">70594054.png<url>70594054.png</url>
+      </source>
+    <resource><id>
+        70594054
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/a/9/76af9ee09a27411b4b4a23d889504f560d7b5.png</url></resource></object>
+    <object id="32_1269419" type="image" x="-79559.1" y="4275.35" r="0" s="4.890177249908447">
+      <source w="844" h="523">70594389.png<url>70594389.png</url>
+      </source>
+    <resource><id>
+        70594389
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/4/6/d657df31130955912b6637ca010e4ade37596.png</url></resource></object>
+    <object id="34_1269419" type="image" x="-79558.95" y="7554.7" r="0" s="4.907623767852783">
+      <source w="841" h="521">70594792.png<url>70594792.png</url>
+      </source>
+    <resource><id>
+        70594792
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/7/6/c0123a3ef259a92d03d61574547b195a52e59.png</url></resource></object>
+    <object id="37_1269419" type="image" x="-86048.45" y="4275.75" r="0" s="4.365562915802002">
+      <source w="730" h="478">70594943.png<url>70594943.png</url>
+      </source>
+    <resource><id>
+        70594943
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/b/1/c4642a962f7c6519397c3eb6aad276e9895da.png</url></resource></object>
+  </zui-table>
+  <path>
+    <o>9</o>
+    <o>13</o>
+    <o>15</o>
+    <o>23</o>
+    <o>21</o>
+    <o>31</o>
+    <o>39</o>
+    <o>70</o>
+    <o>76</o>
+    <o>75</o>
+    <o>263</o>
+    <o>75</o>
+    <o>264</o>
+    <o>75</o>
+    <o>265</o>
+    <o>116</o>
+    <o>117</o>
+    <o>103</o>
+    <o>129</o>
+    <o>137</o>
+    <o>103</o>
+    <o>144</o>
+    <o>103</o>
+    <o>164</o>
+    <o>103</o>
+    <o>174</o>
+    <o>76</o>
+    <o>252</o>
+    <o>189</o>
+    <o>202</o>
+    <o>206</o>
+    <o>211</o>
+    <o>217</o>
+    <o>222</o>
+    <o>234</o>
+    <o>233</o>
+    <o>231</o>
+    <o>229</o>
+    <o>232</o>
+    <o>230</o>
+    <o>15</o>
+    <o>2_3772873</o>
+    <o>16_3772873</o>
+    <o>17_3772873</o>
+    <o>18_3772873</o>
+    <o>3_4590935</o>
+    <o>8_4590935</o>
+    <o>14_4590935</o>
+    <o>20_4590935</o>
+    <o>5_5433892</o>
+    <o>9_5433892</o>
+    <o>11_5433892</o>
+    <o>14_5433892</o>
+    <o>15_5433892</o>
+    <o>1_5021930</o>
+    <o>3_5021930</o>
+    <o>5_5021930</o>
+    <o>7_5021930</o>
+    <o>12_5021930</o>
+    <o>14_5021930</o>
+    <o>15_5021930</o>
+    <o>17_5021930</o>
+    <o>19_5021930</o>
+    <o>2_239105</o>
+    <o>4_239105</o>
+    <o>6_239105</o>
+    <o>8_239105</o>
+    <o>10_239105</o>
+    <o>12_239105</o>
+    <o>14_239105</o>
+    <o>16_239105</o>
+    <o>15</o>
+    <o>0_249438</o>
+    <o>3_249438</o>
+    <o>1_438219</o>
+    <o>6_439407</o>
+    <o>8_439407</o>
+    <o>10_439407</o>
+    <o>12_439407</o>
+    <o>14_439407</o>
+    <o>21_439407</o>
+    <o>26_439407</o>
+    <o>6_1038905</o>
+    <o>8_1038905</o>
+    <o>10_1038905</o>
+    <o>12_1038905</o>
+    <o>14_1038905</o>
+    <o>16_1038905</o>
+    <o>18_1038905</o>
+    <o>20_1038905</o>
+    <o>22_1038905</o>
+    <o>24_1038905</o>
+    <o>26_1038905</o>
+    <o>28_1038905</o>
+    <o>30_1038905</o>
+    <o>32_1038905</o>
+    <o>34_1038905</o>
+    <o>36_1038905</o>
+    <o>38_1038905</o>
+    <o>40_1038905</o>
+    <o>42_1038905</o>
+    <o>44_1038905</o>
+    <o>46_1038905</o>
+    <o>48_1038905</o>
+    <o>51_1038905</o>
+    <o>53_1038905</o>
+    <o>15</o>
+    <o>1_1269419</o>
+    <o>6_1269419</o>
+    <o>10_1269419</o>
+    <o>12_1269419</o>
+    <o>14_1269419</o>
+    <o>16_1269419</o>
+    <o>18_1269419</o>
+    <o>20_1269419</o>
+    <o>22_1269419</o>
+    <o>24_1269419</o>
+    <o>26_1269419</o>
+    <o>28_1269419</o>
+    <o>30_1269419</o>
+    <o>32_1269419</o>
+    <o>34_1269419</o>
+    <o>37_1269419</o>
+    <o>15</o>
+    <o>13</o>
+    <o>9</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LiberationSerif-Bold.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('calluna-regular.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('LiberationSerif-Bold.swf');
+	fontFamily: strong;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #20568e;
+}
+
+.line5
+{
+	gradStartColor: #20568e;
+	gradEndColor: #20568e;
+	color: #20568e;
+	alpha: 1;
+	borderThickness: 0;
+}
+
+.poly5
+{
+	gradStartColor: #20568e;
+	radius: 0;
+	gradEndColor: #20568e;
+	thickness: 100;
+	gradEndAlpha: 0.4;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	borderColor: #20568e;
+	gradStartAlpha: 0.2;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #288acc;
+}
+
+.line1
+{
+	gradStartColor: #666;
+	gradEndColor: #666;
+	color: #666;
+	alpha: 1;
+	borderThickness: 0;
+}
+
+.poly1
+{
+	gradStartColor: #666;
+	radius: 0;
+	gradEndColor: #666;
+	thickness: 100;
+	gradEndAlpha: 0.4;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	borderColor: #666;
+	gradStartAlpha: 0.2;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #111;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+Grid
+{
+	color: #ddd;
+}
+
+ZFrame.circle
+{
+	gradStartColor: #138ecb;
+	gradEndColor: #005580;
+	thickness: 6;
+	gradStartAlpha: 0.3;
+	gradEndAlpha: 0.5;
+}
+
+.line4
+{
+	gradStartColor: #ff0e00;
+	gradEndColor: #ff0e00;
+	color: #ff0e00;
+	alpha: 1;
+	borderThickness: 0;
+}
+
+.poly4
+{
+	gradStartColor: #ff0e00;
+	radius: 0;
+	gradEndColor: #ff0e00;
+	thickness: 100;
+	gradEndAlpha: 0.4;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	borderColor: #ff0e00;
+	gradStartAlpha: 0.2;
+}
+
+ZFrame.bracket
+{
+	gradStartColor: #000;
+	gradEndColor: #000;
+	thickness: 10;
+	gradStartAlpha: 0.2;
+	gradEndAlpha: 0.4;
+}
+
+.line2
+{
+	gradStartColor: #5f56d7;
+	gradEndColor: #5f56d7;
+	color: #5f56d7;
+	alpha: 1;
+	borderThickness: 0;
+}
+
+.poly2
+{
+	gradStartColor: #5f56d7;
+	radius: 0;
+	gradEndColor: #5f56d7;
+	thickness: 100;
+	gradEndAlpha: 0.4;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	borderColor: #5f56d7;
+	gradStartAlpha: 0.2;
+}
+
+ZFrame.roundrect
+{
+	color: #fff;
+	radius: 30;
+	borderAlpha: 0.5;
+	borderColor: #00458e;
+	alpha: 0;
+	borderThickness: 8;
+}
+
+ZFrame.invisible
+{
+	gradStartColor: #000;
+	borderAlpha: 0.6;
+	gradEndColor: #000;
+	gradEndAlpha: 0.3;
+	radius: 14;
+	borderColor: #5aa7cb;
+	gradStartAlpha: 0.02;
+}
+
+ZPoly
+{
+	gradStartColor: #288acc;
+	radius: 0;
+	gradEndColor: #288acc;
+	thickness: 100;
+	gradEndAlpha: 0.4;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	borderColor: #288acc;
+	gradStartAlpha: 0.2;
+	lockTintAlpha: 0.75;
+}
+
+ZCircle
+{
+	gradStartColor: #288acc;
+	radius: 0;
+	gradEndColor: #288acc;
+	thickness: 100;
+	gradEndAlpha: 0.4;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	borderColor: #288acc;
+	gradStartAlpha: 0.2;
+	lockTintAlpha: 0.75;
+}
+
+ZArrow
+{
+	thickness: 8;
+	borderAlpha: 0.6;
+	borderColor: #fff;
+	alpha: 1;
+	color: #288acc;
+	borderThickness: 0;
+}
+
+.line3
+{
+	gradStartColor: #288acc;
+	color: #288acc;
+	gradEndColor: #288acc;
+}
+
+.poly3
+{
+	borderColor: #288acc;
+}
+
+ZLine
+{
+	alpha: 1;
+	color: #999;
+}
+
+ZCurveLine
+{
+	color: #288acc;
+	thickness: 0;
+	alpha: 1;
+}
+
+ZMarker
+{
+	color: #288acc;
+	thickness: 25;
+	alpha: 0.3;
+}
+
+ZPath
+{
+	color: #40abe6;
+	alpha: 1;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	radius: 12;
+	fillColor: #40abe6;
+	alpha: 1;
+}
+
+ZPath Ball.mid
+{
+	radius: 8;
+	fillColor: #40abe6;
+	alpha: .5;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+]]></style>
+  <hash>d06d69b7cd27d6bb1bdbdbfb5f0e3344</hash>
+<sync><oid>sh4gvouunpjb</oid><hash>d06d69b7cd27d6bb1bdbdbfb5f0e3344</hash></sync><config>H5XXHf4q+52z6cRvh3XyFtUukOBDvUyzcCSGjtdlUBmWDy4kRc+o4p9cYduvQKD/GacowpYRmGgI4wkHmAuFQKhEiUoMewt/GyvYRoi3Kj3pOsms3442W7ZJzs24B8Vq+5LVavsQcmX5rtzsTkCITm4+tJtGOpEuV1wpIy5bBggBYhZ3pYW+uD8ksfbFCXgbc/cWhGz4W9spji+c28PyyFj+L499xbny9qStqdqUtBdxB+4dXIeqd267dwv5xenM7raaS4010ZVNC9wGzQ/pIjwh1QilS3U7YwP8ENHT5StIB7/t9jdXfzzDqCw7evOlLRaUTmq8njbOMweAJe4waA==</config></zuiprezi>
