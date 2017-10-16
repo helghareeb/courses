@@ -91,7 +91,8 @@ void printList() {
    //start from the beginning
    if(head != NULL) {
 	
-      while(ptr->next != ptr) {     
+    //   while(ptr->next != ptr) {     
+        while(ptr->next != head) {     
          printf("(%d,%d) ",ptr->key,ptr->data);
          ptr = ptr->next;
       }
