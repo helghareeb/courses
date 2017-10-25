@@ -1,6 +1,8 @@
 //بسم الله الرحمن الرحيم
 
 # include <stdio.h>
+#include <stdlib.h>
+
 #define SIZE 5
 int main(void){
 
