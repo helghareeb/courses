@@ -1,7 +1,8 @@
 # بسم الله الرحمن الرحيم
 
 ## Linear vs. Nonlinear Data Structures
-- Linked lists, stacks and queues are linear data structures. - A tree is a nonlinear, two-dimensional data structure with special properties
+- Linked lists, stacks and queues are linear data structures. 
+- A tree is a nonlinear, two-dimensional data structure with special properties
 
 ### Binary Search Trees
 - Functions inOrder, preOrder, and postOrder each receive a tree (i.e., the pointer to the root node of the tree) and traverse the tree.
@@ -42,7 +43,17 @@
 
 ## Merge Sort
 
-  - merge_sort.c
+### Sort Taxonomies
+- Inplace Sort
+  - inplace
+  - outplace
+- Ordered Sort
+  - Ordered
+  - Unordered
+
+
+
+- merge_sort.c
 
 ## Towers of Hanoi
 
