@@ -24,7 +24,33 @@ function HelloWorld(count)
 - Why not just loops?
 - Scenarios
 
+### Recursion Types
+- Head
+- Tail
+
 ### Scenario 1: Hierarchies, Networks, or Graphs
+- BST:
+  - Preorder
+
+### Binary Search Trees
+- Functions inOrder, preOrder, and postOrder each receive a tree (i.e., the pointer to the root node of the tree) and traverse the tree.
+
+- The steps for a preOrder traversal are:
+  - 1. Process the value in the node
+  - 2. Traverse the left subtree preOrder
+  - 3. Traverse the right subtree preOrder
+
+- The value in each node is processed as the node is visited
+- After the value in a given node is processed, the values in the left subtree are processed, then those in the right subtree are processed
+
+- The steps for a postOrder traversal are
+  - 1. Traverse the left subtree postOrder .
+  - 2. Traverse the right subtree postOrder .
+  - 3. Process the value in the node.
+
+- The value in each node is not printed until the values of its children are printed
+
+
 
 ### Scenario 2: Multiple Related Decisions
 - When our program only has to make one decision, our approach can be fairly simple. We loop through each of the options for our decision, evaluate each one, and pick the best. 
