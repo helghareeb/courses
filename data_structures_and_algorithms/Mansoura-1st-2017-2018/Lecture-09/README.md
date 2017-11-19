@@ -6,6 +6,7 @@
 - 6.096 Introduction to C++, Massachusetts Institute of Technology, January 24th, 2011, John Marrero, Lecture 9 Notes: Advanced Topics I
 - The C++ Standard Library, 2nd Edition, A Tutorial and Reference, Nicolai M. Jusuttis
 - C++ Standard Template Library, Lecture Notes, cs.brown.edu
+- <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/#algorithms"> Power up C++ with the Standard Template Library: Part 2 </a>, by <a href="https://www.topcoder.com/members/DmitryKorolev/"> Dmitry Korolev </a>
 
 ### C++ Versions
 - C++11
@@ -173,4 +174,20 @@ vector.
 - vector.cpp
 
 #### Rotate
+- Self Study
 - rotate.cpp
+
+## Real Algorithms
+
+### Depth-First Search
+- Pre-requisite: community.topcoder.com/tc?module=Static&d1=tutorials&d2=graphsDataStrucs2
+  - DFS is well geared towards problems where we want to find any solution to the problem (not necessarily the shortest path), or to visit all of the nodes in the graph.
+  - The flood-fill operation will be familiar to anyone who has used a graphic painting application. The concept is to fill a bounded region with a single color, without leaking outside the boundaries.
+  - This concept maps extremely well to a DFS. The basic concept is to visit a node, then push all of the nodes to be visited onto the stack. To find the next node to visit we simply pop a node of the stack, and then push all the nodes connected to that one onto the stack as well and we continue doing this until all nodes are visited.
+  - It is a key property of the DFS that we not visit the same node more than once, otherwise it is quite possible that we will recurse infinitely. We do this by marking the node as we visit it.
+
+- STL to implement DFS
+  - At first, imagine we have an undirected graph.
+  - The simplest way to store a graph in STL is to use the lists of vertices adjacent to each vertex.
+  - This leads to the vector< vector<int> > W structure, where W[i] is a list of vertices adjacent to i.
+  - Let’s verify our graph is connected via DFS:
