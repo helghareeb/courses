@@ -11,6 +11,9 @@
 - Input Data (Read Line)
 - Add Comments
 - Null safety
+- Type Casting
+- Math Operations
+- Operator Precedence
 
 ## General Steps
 - Open IntelliJ
@@ -102,11 +105,35 @@ fun main(args:Array<String>){
   var nullAllowed:String? = null // null allowed
   // !! -> Two excalamation marks ensure that variable has value (not null)
   println(name!!) // will run only if name has value (not null)
-  
-  
-
-  
-  
-  
 } 
+```
 
+## Type Casting
+
+```kotlin
+fun main(args:Array<String>){
+  var n1:Int=10
+  var n2:Int?
+  var n2Str:String="13"
+  n2=n2Str // Compile Error
+  n2=n2Str.toInt()
+  println(n1+n2)
+
+  n2Float=n2Str.toFloat()
+  println(n1+n2)
+
+  var xPi:Double=3.14
+  println(xPi)
+  var intPi:Int=xPi.toInt()
+  println(intPi)  // Takes only the integer part
+}
+```
+
+## Math Operations
+- Add/Subtract/Multiply/Divide
+- Modulus
+- Operator Precedence 
+- Increament and Decreament (++x and x++)
+
+## Kotlin Demos
+- Find My Age App (Demo 002)
