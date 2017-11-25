@@ -13,8 +13,8 @@ float add(float, float);
 
 int main(void){
   cout << add (3, 3) << endl;
-  cout << std::fixed << std::setprecision(3) << add(3.0, 3.0) << endl;
-  cout << std::fixed << std::setprecision(3) << add(3.0f, 3.0f) << endl;
+  cout << std::fixed << std::setprecision(3) << add(3.2, 3.0) << endl;
+  cout << std::fixed << std::setprecision(3) << add(3.4f, 3.0f) << endl;
 }
 
 int add(int a, int b){

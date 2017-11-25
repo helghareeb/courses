@@ -15,9 +15,10 @@ int main() {
   iset.insert(3);
   cout << "iset contains:";
 
-  set<int>::iterator it;
-  for(auto it=iset.begin(); it != iset.end(); it++)
+  
+  // set<int>::iterator it;
   // for(it=iset.begin(); it != iset.end(); it++)
+  for(auto it=iset.begin(); it != iset.end(); it++)
     cout << " " << *it;
   cout << endl;
 

@@ -87,7 +87,7 @@ p1.swap(p2);
 swap(p1, p2);
 
 // Returns a pair with types and values of val1 and val2
-make_pari(val1, val2);
+make_pair(val1, val2);
 ```
 
 ### C++ Standard Library
@@ -171,7 +171,7 @@ equal to the second iterator.
 - Two vector iterators compare equal if they refer to the same element of the same
 vector.
 
-- vector.cpp
+- vectors_01.cpp
 
 #### Rotate
 - Self Study
