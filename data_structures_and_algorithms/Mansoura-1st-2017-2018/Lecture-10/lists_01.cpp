@@ -49,6 +49,17 @@ int main(void){
     list_ints.erase(--it);
     printCollection(list_ints);
 
+    it = list_ints.begin();
+    // Following line gives a compilation error
+    // it += 3;
+    it ++;
+    it ++;
+    it ++;
+    list_ints.insert(it, 300);
+    printCollection(list_ints);
+    list_ints.insert(it, 50, 10);
+    printCollection(list_ints);
+
     return 0;
 }
 
