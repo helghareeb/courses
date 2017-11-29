@@ -21,12 +21,12 @@
 - vectors_01.cpp
 - Given grid of positive numbers, Start from 0, 0 and end at n, n. Move only to right and down - find path with sum of numbers is maximum.
 - Example 01
-15
-24
+1 5
+2 4
 - Example 02
-512
-678
-189
+5 1 2
+6 7 8
+1 8 9
 - arrays_01.cpp
 - Assignment: Program the previous code using Vectors
 
