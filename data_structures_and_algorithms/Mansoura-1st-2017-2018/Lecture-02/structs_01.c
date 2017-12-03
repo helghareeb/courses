@@ -5,7 +5,7 @@ struct Doctor{
     char fname[50];
     char lname[50];
     int age;
-    int *DoB;
+    int* DoB;
 };
 
 void printDoctor(struct Doctor a){
@@ -21,7 +21,7 @@ struct Doctor haitham;
 strcpy(haitham.fname, "Haitham");
 strcpy(haitham.lname, "El-Ghareeb");
 haitham.age = 62;
-haitham.DoB = 1970;
+*haitham.DoB = 1970;
 
 printDoctor(haitham);
 }
