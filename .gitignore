@@ -1,5 +1,7 @@
 *.out
 TODO
+.vs
+*.exe
 .vscode
 ISM-Overview.pptx
 *.o
@@ -69,3 +71,8 @@ build/*
 !libs/*.jar 
 !Releases/*.jar 
 credentials*.gradle gen
+/.vs
+/data_structures_and_algorithms/Mansoura-1st-2017-2018/Lecture-01/.vs
+/data_structures_and_algorithms/Mansoura-1st-2017-2018/Lecture-01/Assignment/.vs/recursiveBinarySearch/v15
+/data_structures_and_algorithms/Mansoura-1st-2017-2018/Lecture-01/Assignment
+/data_structures_and_algorithms/testzz
