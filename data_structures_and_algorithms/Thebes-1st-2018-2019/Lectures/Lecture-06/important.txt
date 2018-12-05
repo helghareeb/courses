@@ -1,2 +1,12 @@
 # بسم الله الرحمن الرحيم
 
+Q: Which Data Structure?
+
+Data Structures
+- dictionary
+- array
+- list
+
+Criteria
+- storage requirements
+- necessary access and manipulation

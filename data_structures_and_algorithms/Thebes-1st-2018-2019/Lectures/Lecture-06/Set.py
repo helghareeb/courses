@@ -63,7 +63,7 @@ class Set:
 
     def __next__(self):
         self._counter += 1
-        if self._counter > len(self._list):
+        if self._counter >= len(self._list):
             raise StopIteration
         else:
             return self._list[self._counter]
