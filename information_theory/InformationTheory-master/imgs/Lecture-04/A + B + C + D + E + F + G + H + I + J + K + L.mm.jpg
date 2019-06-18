@@ -1,0 +1,478 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#000000" CREATED="1539448024647" ID="ID_1475588174" MODIFIED="1539449238650">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A + B + C + D + E + F + G + H + I + J + K + L
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Divide them into three groups
+    </p>
+    <p>
+      Group 1 -&gt; A + B + C + D
+    </p>
+    <p>
+      Group 2 -&gt; E + F + G + H
+    </p>
+    <p>
+      Group 3 -&gt; I + J + K + L
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1539448112321" FOLDED="true" ID="ID_1330513764" MODIFIED="1539455113268" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Group 1 vs. Group 2
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1539448149898" FOLDED="true" ID="ID_659071346" MODIFIED="1539449272479">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 1:
+    </p>
+    <p>
+      Both Equal
+    </p>
+    <p>
+      The different ball is in Group 3
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1539448297659" FOLDED="true" ID="ID_257201229" MODIFIED="1539449270977">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Any Three from Any Group
+    </p>
+    <p>
+      vs.
+    </p>
+    <p>
+      Any Three from Group 3
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1539448403984" ID="ID_1822239729" MODIFIED="1539449238623">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 1:
+    </p>
+    <p>
+      Both Equal
+    </p>
+    <p>
+      The different ball is the one outside :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1539448450198" FOLDED="true" ID="ID_1665747993" MODIFIED="1539449267294">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 2:
+    </p>
+    <p>
+      Any three balls from any group
+    </p>
+    <p>
+      Heavier than
+    </p>
+    <p>
+      Any three from Group 3
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1539448587330" FOLDED="true" ID="ID_473451887" MODIFIED="1539449263392">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Note: Now we know the different one is: Lighter :|
+    </p>
+    <p>
+      One ball from Group 3 - that were on the scale
+    </p>
+    <p>
+      vs.
+    </p>
+    <p>
+      One ball from Group 3 - that were on the scale
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1539448790164" ID="ID_1835935711" MODIFIED="1539449238632">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 1:
+    </p>
+    <p>
+      Both balls are Equal
+    </p>
+    <p>
+      Solution: the ball that was on scale, and now left outside :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1539448823635" ID="ID_1586696305" MODIFIED="1539449238635">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 2 &amp; Case 3
+    </p>
+    <p>
+      One ball is heavier
+    </p>
+    <p>
+      The <b>Light</b>&#160;ball is the answer :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1539448527750" FOLDED="true" ID="ID_855061681" MODIFIED="1539449269281">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 3:
+    </p>
+    <p>
+      Any three from any group
+    </p>
+    <p>
+      Ligher than
+    </p>
+    <p>
+      Any three from Group 3
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1539448996274" FOLDED="true" ID="ID_1539414598" MODIFIED="1539449265152">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Note: Now we know the different one is: Heavier :|
+    </p>
+    <p>
+      One ball from Group 3 - that were on the scale
+    </p>
+    <p>
+      vs.
+    </p>
+    <p>
+      One ball from Group 3 - that were on the scale
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1539449043761" ID="ID_1052971601" MODIFIED="1539449238644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 1:
+    </p>
+    <p>
+      Both balls are Equal
+    </p>
+    <p>
+      Solution: the ball that was on the scale, and now left outside :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1539449109091" ID="ID_1473988716" MODIFIED="1539449238648">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 2 &amp; Case 3:
+    </p>
+    <p>
+      One ball is heavier
+    </p>
+    <p>
+      The <b>heavy</b>&#160;ball is the answer :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1539453817863" FOLDED="true" ID="ID_254802796" MODIFIED="1539455111540">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 2:
+    </p>
+    <p>
+      Group 1 &gt; Group 2
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1539453861939" FOLDED="true" ID="ID_811374380" MODIFIED="1539455105532">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      that means -&gt; Group 3 is the standard :|
+    </p>
+    <p>
+      Take two balls from Group 1 &amp; one ball from Group 2
+    </p>
+    <p>
+      vs.
+    </p>
+    <p>
+      Two balls from Group 2 and 1 ball from Group 3
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1539453944031" FOLDED="true" ID="ID_1984116832" MODIFIED="1539454428805">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 1:
+    </p>
+    <p>
+      Both become equal
+    </p>
+    <p>
+      This means that the ball from Group 1 we left is the heavy&#160;one
+    </p>
+    <p>
+      <b>OR </b>
+    </p>
+    <p>
+      The two balls that we removed from Group 2; one of them is Light
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1539454073523" FOLDED="true" ID="ID_1432518851" MODIFIED="1539454421661">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Weight the two balls that we removed
+    </p>
+    <p>
+      from Group 2
+    </p>
+    <p>
+      vs.
+    </p>
+    <p>
+      each other
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1539454103902" ID="ID_563296482" MODIFIED="1539454133345">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 1:
+    </p>
+    <p>
+      They are equal in weight
+    </p>
+    <p>
+      This means the ball from Group 1 is <b>Heavy</b>&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1539454397246" ID="ID_574368803" MODIFIED="1539454416160">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 2 &amp; Case 3:
+    </p>
+    <p>
+      One of them is Light -&gt; This is the odd ball :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1539453985279" FOLDED="true" ID="ID_230506378" MODIFIED="1539455103867">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 2:
+    </p>
+    <p>
+      Left side still heavier, so
+    </p>
+    <p>
+      either one of the balls left from group 1 is the heavier
+    </p>
+    <p>
+      OR
+    </p>
+    <p>
+      the ball left from Group 2 on the right side is the light
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1539454675125" FOLDED="true" ID="ID_153191765" MODIFIED="1539455101027" TEXT="measure the two balls from Group 1 against each other">
+<node COLOR="#111111" CREATED="1539454952057" ID="ID_1798433926" MODIFIED="1539454974392">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 1:
+    </p>
+    <p>
+      They are Equal
+    </p>
+    <p>
+      The Ball on the Right side is Light :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1539454981635" ID="ID_509756152" MODIFIED="1539455002436">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 2:
+    </p>
+    <p>
+      One of them is Heavier than the other
+    </p>
+    <p>
+      The Heavy ball is the odd one :)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1539453841013" ID="ID_1275015975" MODIFIED="1539453857164">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Case 3:
+    </p>
+    <p>
+      Group 2 &gt; Group 1
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</map>
